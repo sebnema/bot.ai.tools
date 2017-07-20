@@ -1,0 +1,696 @@
+"Störung";1_stoerung_disambiguierung
+"Keine sichere Leitung";1_stoerung_disambiguierung
+"LED am NTBA leuchtert nicht _  keine Verbindung";1_stoerung_disambiguierung
+"Keine Verbindung";1_stoerung_disambiguierung
+"Unser Anschluss ist tot";1_stoerung_disambiguierung
+"verbindungsprobleme";1_stoerung_disambiguierung
+"Ich habe eine Handy-Flat (4 _ 99€ / Monat): Das Geld wurde ganz normal am Anfang des Monats abgebucht aber jetzt ist ein Fehler bei der Flat und sie funktioniert nicht mehr?! Können sie mir helfen?";1_stoerung_disambiguierung
+"Keine Verbindung möglich";1_stoerung_disambiguierung
+"anschluss funktioniert nicht";1_stoerung_disambiguierung
+"Der Anschluss {Telefonnummer} funktioniert nicht mehr.";1_stoerung_disambiguierung
+"Anschluss funktioniert nicht!";1_stoerung_disambiguierung
+"Kfz-Werkstatt Schuhegger in Rückstetten {Telefonnummer} ist die Leitung deffekt!";1_stoerung_disambiguierung
+"Der Anschluss {Telefonnummer} funktioniert nicht";1_stoerung_disambiguierung
+"Anschluss {Telefonnummer} überprüfen";1_stoerung_disambiguierung
+"Der Anschluß {Telefonnummer} ist außer Betrieb";1_stoerung_disambiguierung
+"keine verbindung vorhanden";1_stoerung_disambiguierung
+"Keine Netzwerkverbindung/Störung";1_stoerung_disambiguierung
+"Störung {Straße} {Hausnummer} {Postleitzahl} {Ort}";1_stoerung_disambiguierung
+"störrung";1_stoerung_disambiguierung
+"Anschluss jetzt ausgefallen";1_stoerung_disambiguierung
+"Mein Anschluss ist gestört";1_stoerung_disambiguierung
+"Signal geht nicht durch";1_stoerung_disambiguierung
+"Seit 2 Wochen Anschluss ausgefallen sie haben Ticket als behoben geschlossen. Es ist aber nichts behoben";1_stoerung_disambiguierung
+"Keine Verbindung zum Provider";1_stoerung_disambiguierung
+"störung im bereich 36341";1_stoerung_disambiguierung
+"Hallo liebe Telekom eine Störung";1_stoerung_disambiguierung
+"Ich kann keine Verbindung aufbauen";1_stoerung_disambiguierung
+"Ausfall des Anschluss";1_stoerung_disambiguierung
+"Anschluss {Telefonnummer} defekt";1_stoerung_disambiguierung
+"Es ist keine Verbindung möglich";1_stoerung_disambiguierung
+"Seit 2wochen Störung";1_stoerung_disambiguierung
+"keine Verbindung seit 24 stunden";1_stoerung_disambiguierung
+"Anschluß {Telefonnummer} funktioniert nicht";1_stoerung_disambiguierung
+"Keine Verbindung. Grüne Leuchte an T-Net Box ist aus";1_stoerung_disambiguierung
+"Verbindung gestört";1_stoerung_disambiguierung
+"Seit 14 Tagen  sind Störungen in den Abendstunden";1_stoerung_disambiguierung
+"Störung in 66564 Lautenbach in der Breitwieserstraße";1_stoerung_disambiguierung
+"Ausfälle Leitungsstörung";1_stoerung_disambiguierung
+"Anschluss hat keine Funktion";1_stoerung_disambiguierung
+"{Telefonnummer} Anschluß geht nicht";1_stoerung_disambiguierung
+"Bei Telekom steht beim Antippen von Berichten -Information: Technisches Problem ?";1_stoerung_disambiguierung
+"kein anschluss mehr";1_stoerung_disambiguierung
+"Wir haben eine Störungs Meldung";1_stoerung_disambiguierung
+"Anzeige Technische Sörung";1_stoerung_disambiguierung
+"Anschluss {Telefonnummer} ohne Funktion. Antw";1_stoerung_disambiguierung
+"hilfe";1_stoerung_disambiguierung
+"Störung in Bremscheid";1_stoerung_disambiguierung
+"Unser Anschluß {Telefonnummer} funktioniert nicht.";1_stoerung_disambiguierung
+"wiederholung des fehlers vom 22.01.2017";1_stoerung_disambiguierung
+"Störung des Hausanschlusses defekt";1_stoerung_disambiguierung
+"Telefonieren gestört";1_1_telefonie_disambiguierung
+"Der Anschluss {Telefonnummer} ist nicht erreichbar";1_1_telefonie_disambiguierung
+"festnetz";1_1_telefonie_disambiguierung
+"telephonie funktioniert nicht";1_1_telefonie_disambiguierung
+"störung festnetz";1_1_telefonie_disambiguierung
+"Besetztzeichen";1_1_telefonie_disambiguierung
+"haustelefon ist ständig besetzt";1_1_telefonie_disambiguierung
+"Sehr geehrte Damen und Herren unser Festnetz Anschluss {Telefonnummer} ist durch einen Spannunsschaden gestört.";1_1_telefonie_disambiguierung
+"es werden keine anrufe durchgestellt";1_1_telefonie_disambiguierung
+"Anschluss nicht erreichbar";1_1_telefonie_disambiguierung
+"telefon";1_1_telefonie_disambiguierung
+"Internet Telefon";1_1_telefonie_disambiguierung
+"Störungen Festnetz";1_1_telefonie_disambiguierung
+"Wurde meine Störung behoben Festnetz Nummer lautet {Telefonnummer}";1_1_telefonie_disambiguierung
+"jemanden anrufen nicht möglich";1_1_telefonie_disambiguierung
+"anrufe ins festnetz nicht möglich- 'gewählte vorwahl aus ihrem ortsnetz nicht erreichbar'";1_1_telefonie_disambiguierung
+"telefon-tot-internet-geht";1_1_telefonie_disambiguierung
+"Störung haustelefon";1_1_telefonie_disambiguierung
+"Trotz neuem Router kann ich keine Gespräche führen";1_1_telefonie_disambiguierung
+"festnetztelefon gibt nur besetzt";1_1_telefonie_disambiguierung
+"Festnetz andauern besetzt";1_1_telefonie_disambiguierung
+"Guten morgen meine Internetverbindung funktioniert. Nur jedoch Telefonieren funktioniert nicht";1_1_telefonie_disambiguierung
+"Telefonanschluss gestört";1_1_telefonie_disambiguierung
+"Keine Telefonverbindung möglich";1_1_telefonie_disambiguierung
+"Keine Telefonie";1_1_telefonie_disambiguierung
+"{Telefonnummer} Störung des Telefon";1_1_telefonie_disambiguierung
+"Festnetz- Störung";1_1_telefonie_disambiguierung
+"Telefonverbindung nicht möglich";1_1_telefonie_disambiguierung
+"telefonverbindung prüfen";1_1_telefonie_disambiguierung
+"Telefonie nicht möglich";1_1_telefonie_disambiguierung
+"Keine telefonieren möglich";1_1_telefonie_disambiguierung
+"Telefonleitung fehlt";1_1_telefonie_disambiguierung
+"Störung des Anschluss {Telefonnummer}.";1_1_telefonie_disambiguierung
+"keine Telefonverbindung";1_1_telefonie_disambiguierung
+"Guten Tag leider ist kein Telefonverbindung möglich";1_1_telefonie_disambiguierung
+"Kann nicht telefonieren";1_1_telefonie_disambiguierung
+"Störung Festnetz.";1_1_telefonie_disambiguierung
+"Meine festnetznummer {Telefonnummer} ist gestört";1_1_telefonie_disambiguierung
+"Ich kann seit heute Nachmittag nicht mehr telefonieren. Es leuchtet eine helle Lampe. Was kann ich tun?";1_1_telefonie_disambiguierung
+"Ich kann nicht telefonieren";1_1_telefonie_disambiguierung
+"telefonie geht nicht mehr";1_1_telefonie_disambiguierung
+"telefon gestört";1_1_telefonie_disambiguierung
+"kein telefonieren möglich";1_1_telefonie_disambiguierung
+"Keine Telefonate möglich";1_1_telefonie_disambiguierung
+"Festnetz-Anschluss (Telefonie) gestört";1_1_telefonie_disambiguierung
+"anschluß ist nicht erreichbar sprachbox ist direkt geschaltet";1_1_telefonie_disambiguierung
+"telefonie";1_1_telefonie_disambiguierung
+"Telefonie funktioniert nicht";1_1_telefonie_disambiguierung
+"ich kann nicht mehr telefonieren";1_1_telefonie_disambiguierung
+"Rufnummer ist nicht erreichbar";1_1_telefonie_disambiguierung
+"Telefonie ohne Funktion! Lampe am Modem aus!";1_1_1_telefonie_ankommend_oder_beidseitig
+"Telefonie ohne Funktion";1_1_1_telefonie_ankommend_oder_beidseitig
+"Telefonie funktioniert nicht _  rein wie auch raus";1_1_1_telefonie_ankommend_oder_beidseitig
+"keine Ankommenden und abgehende Gespräche _  LED am NTBA leuchtet nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"kein telefon im gebiet 55568";1_1_1_telefonie_ankommend_oder_beidseitig
+"Telefon defekt";1_1_1_telefonie_ankommend_oder_beidseitig
+"telefon funktioniert nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetz geht nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"Hallo  _  meine nummer lautet {Telefonnummer}  und mein internet funktioniert nicht?";1_1_1_telefonie_ankommend_oder_beidseitig
+"Ich kann weder Gespräche annehmen _  noch kann ich raus telefonieren.";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetz funktioniert nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"telefon funktioniert nicht internet ok";1_1_1_telefonie_ankommend_oder_beidseitig
+"Anschluß ist nicht erreichbar und es kann auch nicht raus telefoniert werden";1_1_1_telefonie_ankommend_oder_beidseitig
+"Guten Tag _  die Rufnummer {Telefonnummer} ist nicht erreichbar _  da schon vor Beendigung der Durchwahl das Besetztzeichen kommt. Danke F. Gliemanne";1_1_1_telefonie_ankommend_oder_beidseitig
+"Telefonanschluss funktioniert nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetz gibt kein Amt";1_1_1_telefonie_ankommend_oder_beidseitig
+"Seit gestern morgen funktioniert unser festnetzansschluss nicht mehr. Bei anrufen von außerhalb ist immer belegt. Laut sötungsmeldung gibt es zu diesem Anschluss keine Störung";1_1_1_telefonie_ankommend_oder_beidseitig
+"kein Freizeichen";1_1_1_telefonie_ankommend_oder_beidseitig
+"Kein festnetzansschluss bei mehreren getesteten Geräten. Bei anrufen von extern immer belegt";1_1_1_telefonie_ankommend_oder_beidseitig
+"keine Verbindung bei Anruf von außen Telefon ständig belegt";1_1_1_telefonie_ankommend_oder_beidseitig
+"Es gibt eine beidseitige Störung beim Telefonieren.";1_1_1_telefonie_ankommend_oder_beidseitig
+"An meinem Speedport Router funktioniert das Internet- die Telefonie aber nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"guten Morgen mein Festnetzanschluss {Telefonnummer} ist nicht erreichbar laut ihrer störungsmeldung ist bis zum 17.2-15 Uhr die Störung können sie mir da weiterhelfen?";1_1_1_telefonie_ankommend_oder_beidseitig
+"Kein Ton eingehende anrufe";1_1_1_telefonie_ankommend_oder_beidseitig
+"Rauschen Anrufe gehen weder raus noch rein";1_1_1_telefonie_ankommend_oder_beidseitig
+"das Telefon ist tot _  der Lan Anschluss funktioniert";1_1_1_telefonie_ankommend_oder_beidseitig
+"keine ankommenden und abgehende Gespräche";1_1_1_telefonie_ankommend_oder_beidseitig
+"Unsere Anlage kann seit dem 13.01.2017 keine freie Leitung mehr bekommen. Sowohl eingehende als auch ausgehende Anrufe erhalten nur ein Belegtzeichen";1_1_1_telefonie_ankommend_oder_beidseitig
+"Ich kann zwar raus telefonieren aber nicht angerufen werden";1_1_1_telefonie_ankommend_oder_beidseitig
+"telefon funktioniert nicht kein anruf möglich und kein empfang";1_1_1_telefonie_ankommend_oder_beidseitig
+"Anschluß {Telefonnummer} gestört. Eingehende Anrufe erhalten Beseztzeichen. Ausgehende Anrufe werden nicht gewählt. Hardware ist überprüft Telefon zeigt alle Funktionen.";1_1_1_telefonie_ankommend_oder_beidseitig
+"Telefon ist tot";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetzleitung ist tot!";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetztelefon geht nicht.";1_1_1_telefonie_ankommend_oder_beidseitig
+"scheiße noch mal.jetzt zum 100tsen mal! tel.mit der nummer {Telefonnummer} kann weder anrufe abgeben noch ankommende anrufe entgegennehmen.kriegen sie das problem noch zu lebzeiten gebacken?warum kann man keinen Menschen mehr im störungsdienst erreichen?den ganzen tag heute alles besetzt.toll ganz toll super telekom.";1_1_1_telefonie_ankommend_oder_beidseitig
+"Wir sind über die Nummer {Telefonnummer} nicht mehr erreichbar.";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetztelefon funktioniert nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"kein festnetz";1_1_1_telefonie_ankommend_oder_beidseitig
+"Beim Anrufen einer anderen Telefonnummer kommt immer Besetztzeichen.wenn ich angerufen werde kommt die Ansage 'der Teilnehmerist nicht zu erreichen";1_1_1_telefonie_ankommend_oder_beidseitig
+"wie können nicht telefonieren und keine Anrufe empfangen Fax funktionert auch nicht";1_1_1_telefonie_ankommend_oder_beidseitig
+"Keine ausgehenden und eingehenden Gespräche möglich";1_1_1_telefonie_ankommend_oder_beidseitig
+"wIR SIND NICHT ERREICHBAR ( telefonisch) und erreichen niemanden mit unserem Festnetzanschluss";1_1_1_telefonie_ankommend_oder_beidseitig
+"Totalausfall Festnetz";1_1_1_telefonie_ankommend_oder_beidseitig
+"keine eingehenden Gespräche mehr";1_1_1_telefonie_ankommend_oder_beidseitig
+"Keine eingehende u. keine abgehende telefonie möglich";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetzanschluss funktioniert nicht mehr";1_1_1_telefonie_ankommend_oder_beidseitig
+"keine eingehende u. abgehende telefonie";1_1_1_telefonie_ankommend_oder_beidseitig
+"Es ist keine eingehende und abgehende Telefonie möglich";1_1_1_telefonie_ankommend_oder_beidseitig
+"Das Festnetztelefon funktioniert seit Samstag nicht mehr.";1_1_1_telefonie_ankommend_oder_beidseitig
+"Festnetz ausgefallen";1_1_1_telefonie_ankommend_oder_beidseitig
+"IP Telefonie ohne Funktion";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Internettelefonie funktioniert nicht _  Ursache 500";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Keine iptelefonie möglich _  Ursache 500";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Seit der Umstellung auf IP-Telefonie habe ich ständig Störungen meiner Anschlüsse. Keine Verbindung _  kein Freizeichen _  keine Möglichkeit _  angerufen zu werden _  z.B. am 17. _  18. _  28.05.bis heute";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Internettelefonie funktioniert nicht mehr _  Telefon klingelt nicht bei Anruf und Verbindungen können nicht aufgebaut werden";1_1_1_1_telefonie_stoerung_ip_anschluss
+"ip Telefonie ich kann nicht angerufen werden";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Seit heute früh brennt am Router die LED von 'Telefonie' nicht mehr  demzufolge geht auch kein Festnetz mehr (IP-basierte Telefonie).";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Speedport W 724 V  Telefonnrichtung mit Fehlermeldung 'Es ist ein allgemeiner Fehler bei der IPTelefonie aufgetreten: Diese Aktion ist nicht möglich. (SIP Fehlercode 403) (V007)'";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Telefon wegen Umstellung auf voice over IP funktioniert nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"VDSL 25  Telefonieren VoIP mit Router 920 V  nicht möglich  Internet funktionier";1_1_1_1_telefonie_stoerung_ip_anschluss
+"bei ip basiertem anschluss  internet geht  telefonieren nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP Telefonie funktioniert nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Kein ip telefonie";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Telefonie nach IP-Umstellung geht nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Seit ca 1 Std kein Signal (VoIP).";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP Telefon keine Funktion";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Internettelefonie nicht vorhanden";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Telefon VoiP geht nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP-Telefonie funktioniert nicht Fehlermeldung = Internettelefonie über tel.t-online.de war nicht erfolgreich. Ursache: Server Time-out (504)";1_1_1_1_telefonie_stoerung_ip_anschluss
+"ip telefonie ausgefallen";1_1_1_1_telefonie_stoerung_ip_anschluss
+"keine IP-Telefonie möglich";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP- Festnetz störung";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Seit Umstellung auf VOIP immer wieder Störungen beim Telephon";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP-Telefonie funktioniert trotz bestehender Internetverbindung nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Festnetzrufnummer {Telefonnummer} ; wie haben folgendes Problem bei der Internettelefonie funktioniert nicht seit Mitte der Woche. (eingehende und ausgehende Anrufe nicht möglich) Internet funktionniert.";1_1_1_1_telefonie_stoerung_ip_anschluss
+"DSL ausgefallen und VOIP Telefon und TV";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Keine IP Telefonie möglich";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Keine Internet telefonie";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Störung Voip";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Internettelefonie geht nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Voip funktioniert nicht mehr {Telefonnummer}";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Telefongespräch über Internettelefonie wurde unterbrochen (Fehler 555 der Fritzbox 7390)";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Allgemeiner Fehler bei der DSL-Telefonie SIP Fehlercode 500 (V012)";1_1_1_1_telefonie_stoerung_ip_anschluss
+"DSL Telefoie fällt sporadisch aus SIP Fehlercode 500 (V012)";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Es ist ein allgemeiner Fehler bei der IP Telefonie aufgetreten  (SIP Fehlercode 403) (V007)";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Die Internettelefonie funktioniert nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"regelmäßiger ausfall internet telefonie selbständiger routerneustart";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Internet und Internettelefonie funktioniert nicht richtig";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Internettelefonie funktioniert nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Wir haben keinen Empfang über VoIP";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP basierte Telefonie funktioniert nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"seit Umstellung auf All-ip keine eingehende Anrufe";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP-basierte Telefon funktioniert nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Der IP Telefon Anschluß ist tot Internet funktioniert fast immer";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Keine ip telefonie";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Es ist ein allgemeiner Fehler bei der IP-Telefonie aufgetreten: Diese Aktion ist nicht möglich. (SIP Fehlercode 403) (V007)";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Nach Umstellung auf IP-basierte Telefonie am 01.12.2016 kann ich nicht mehr telefonieren. Eingehende Telefonate laden direkt in der Sprachbox. Bei ausgehenden Telefonaten kommt immer sofort das Besetzt-Zeichen. Ich benutze die Fritzbox 7490.";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Nach Umstellung auf IP-basierte Telefonie kann ich nicht mehr telefonieren. Eingehende Gespräche landen automatisch in der Sprachbox. Bei ausgehenden Telefonaten kommt das Besetzt-Zeichen.";1_1_1_1_telefonie_stoerung_ip_anschluss
+"IP Telefonie geht nicht";1_1_1_1_telefonie_stoerung_ip_anschluss
+"Störung Telefon bei IP-Telefonie";1_1_1_1_telefonie_stoerung_ip_anschluss
+"ISDN Anschluss funktioniert nicht. Keine Anrufe möglich";1_1_1_2_telefonie_stoerung_universalanschluss
+"4 ISDN-Anschlüsse ausgefallen";1_1_1_2_telefonie_stoerung_universalanschluss
+"Keine ISDN verbindung";1_1_1_2_telefonie_stoerung_universalanschluss
+"ISDN Störung";1_1_1_2_telefonie_stoerung_universalanschluss
+"Isdn ausfall";1_1_1_2_telefonie_stoerung_universalanschluss
+"ISDN ohne funktion";1_1_1_2_telefonie_stoerung_universalanschluss
+"isdn funktioniert nicht mehr";1_1_1_2_telefonie_stoerung_universalanschluss
+"NTBA ISDN Leuchte leuchtet nicht ISDN anschluss funktioniert nicht";1_1_1_2_telefonie_stoerung_universalanschluss
+"Hallo ich habe einen ISDN Anschluss und leider funktionerier dieser nicht mehr";1_1_1_2_telefonie_stoerung_universalanschluss
+"ISDN Anlage telefoniert nicht raus";1_1_1_2_telefonie_stoerung_universalanschluss
+"ISDN ist ausgefallen";1_1_1_2_telefonie_stoerung_universalanschluss
+"Ausfall ISDN-Anschluss";1_1_1_2_telefonie_stoerung_universalanschluss
+"Festnetz geht nicht ISDN";1_1_1_2_telefonie_stoerung_universalanschluss
+"Mein Festnetz ISDN Anschluss funktioniert nicht";1_1_1_2_telefonie_stoerung_universalanschluss
+"Kein isdn";1_1_1_2_telefonie_stoerung_universalanschluss
+"unser Festnetztelefon funktioniert nciht  isdn Anlagenanschluss  geschäftlich";1_1_1_2_telefonie_stoerung_universalanschluss
+"festnetz gestört internet funktioniert isdn-anschluss";1_1_1_2_telefonie_stoerung_universalanschluss
+"Kein Festnetz isdn";1_1_1_2_telefonie_stoerung_universalanschluss
+"Störung ISDN";1_1_1_2_telefonie_stoerung_universalanschluss
+"ISDN Anschluss läuft nicht";1_1_1_2_telefonie_stoerung_universalanschluss
+"Der ISDN-Anschluß funktioniert nicht  DSL aber o.k.";1_1_1_2_telefonie_stoerung_universalanschluss
+"isdn-box blinkt langsam  Telefonieren geht nicht";1_1_1_2_telefonie_stoerung_universalanschluss
+"meine isdn Telefone funktionieren nicht";1_1_1_2_telefonie_stoerung_universalanschluss
+"Das ISDN Signal funktioniert nicht Internet funktioniert";1_1_1_2_telefonie_stoerung_universalanschluss
+"ISDN ausgefallen";1_1_1_2_telefonie_stoerung_universalanschluss
+"isdn geht nicht";1_1_1_2_telefonie_stoerung_universalanschluss
+"kein isdn mehr";1_1_1_2_telefonie_stoerung_universalanschluss
+"ISDN funktioniert nicht";1_1_1_2_telefonie_stoerung_universalanschluss
+"Sehr geehrte Damen und Herren _   ab 19.05.2017 - das Datum wurde mir von einem Ihrer Außendienstmitarbeiter  so festgestellt - ist mir nicht mehr möglich mit meinem analogen Anschluss zu telefonieren.";1_1_1_3_telefonie_stoerung_standardanschluss
+"analoganschluss ohne funktion";1_1_1_3_telefonie_stoerung_standardanschluss
+"Die Leitung des analogen Telefons ist tot und die Digitalen Anschlusse Rauschen";1_1_1_3_telefonie_stoerung_standardanschluss
+"keine Verbindung beim analogen Festnetzanschluß";1_1_1_3_telefonie_stoerung_standardanschluss
+"Beim telefonieren ist der Gesprächspartner immer wieder kurz unterbrochen";1_1_2_telefonie_abbrueche
+"bei ankommende Gesprächen kommt es häufig zu Gesprächsabbrüchen";1_1_2_telefonie_abbrueche
+"Telefonate brechen mittendrin ab";1_1_2_telefonie_abbrueche
+"Gespräch Abbruch";1_1_2_telefonie_abbrueche
+"anruf bricht ab";1_1_2_telefonie_abbrueche
+"Die laufenden Gespräche werden mehrfach unterbrochen. Heute z. B. 17:00 bis 18:35 in dieser Zeit waren drei Unterbrechungen. Gestern genauso in der Zeit 14:00 bis 15:00 Uhr.";1_1_2_telefonie_abbrueche
+"In regelmäßigen Abständen bricht die Leitung während eines Gespräches ab!";1_1_2_telefonie_abbrueche
+"unvermittelte Gesprächsabbrüche";1_1_2_telefonie_abbrueche
+"leider tritt immer wieder eine störung auf wenn wir veruschen zu telefoniern";1_1_2_telefonie_abbrueche
+"Anrufe werden nach 3 - 5 Minuten unterbrochen";1_1_2_telefonie_abbrueche
+"Bei Telefonaten auf dem Festnetz hat der Anschluss mit der Nummer {Telefonnummer} ständig Aussetzer";1_1_2_telefonie_abbrueche
+"anruf kommt durch wird aber nach wenigen Sekunden unterbrochen. Telefon Nummer {Telefonnummer}";1_1_2_telefonie_abbrueche
+"Bei eingehenden Telefonaten bricht unser Telefon immer nach circa 1 Minute ab";1_1_2_telefonie_abbrueche
+"meine Telefongespräche brechen seit einer Woche nach einer gewissen Zeit ab.Der Anschluss war auch ein Tag ganz gestört und nicht funktionsfähig.";1_1_2_telefonie_abbrueche
+"Telefon bricht eingehende  Gespräche ab";1_1_2_telefonie_abbrueche
+"Seit der Umstellung auf den IP-Anschluss fällt zeitweise kein Telefonieren möglich. :Am eigenen Telefon ist ke";1_1_2_telefonie_abbrueche
+"das Telefongespräch beim ip Anschluß bricht ab";1_1_2_telefonie_abbrueche
+"Telefonate brechen immer noch einseitig im festnetz ab. die vorherige Störungsmeldung Ticket: 212331677 ist weiterhin nicht behoben";1_1_2_telefonie_abbrueche
+"Festnetz wird während des Telefonats ständig unterbrochen";1_1_2_telefonie_abbrueche
+"Aussetzer bei Telefon";1_1_2_telefonie_abbrueche
+"Die Nummer {Telefonnummer} ist gestört Gespräche brechen unvermittelt ab";1_1_2_telefonie_abbrueche
+"Gesprächsabbrüche";1_1_2_telefonie_abbrueche
+"Der Telefonanschluss ist zeitweise unterbrochen";1_1_2_telefonie_abbrueche
+"Telefongespräch wurde des öfteren abgebrochen";1_1_2_telefonie_abbrueche
+"Gesprächsunterbrechung";1_1_2_telefonie_abbrueche
+"Verbindungsabbruch Telefonie";1_1_2_telefonie_abbrueche
+"Festnetz fällt gelegentlich aus";1_1_2_telefonie_abbrueche
+"Kein Telefon seit der umstelung bricht es immer wieder ab";1_1_2_telefonie_abbrueche
+"Beim Telefonieren bricht die Verbindung plötzlich ab regelmäßig";1_1_2_telefonie_abbrueche
+"beim telefonieren bricht die Verbindung plötzlich ab";1_1_2_telefonie_abbrueche
+"Telefonie bricht ab";1_1_2_telefonie_abbrueche
+"Bei Telefonaten bricht die Verbindung regelmaßig ab.";1_1_2_telefonie_abbrueche
+"Telefongespräche werden ständig unterbrochen";1_1_2_telefonie_abbrueche
+"telefon setzt aus";1_1_2_telefonie_abbrueche
+"Telefonat bricht ab";1_1_2_telefonie_abbrueche
+"Anrufe brechen ab";1_1_2_telefonie_abbrueche
+"Telefonieabbrüche";1_1_2_telefonie_abbrueche
+"Telefonie Abbrüche";1_1_2_telefonie_abbrueche
+"Telefongespräche brechen sehr häufig ab. Teils nach heftigem Rauschen; teilweise Geräuschlos. Manchmal erscheint im Telefondisply: 'Vermittlungsfehler'";1_1_2_telefonie_abbrueche
+"Telefonanrufe brechen nach wenigen minuten ab";1_1_2_telefonie_abbrueche
+"telefonieren im Festnetz bricht nach ein paar minuten ab";1_1_2_telefonie_abbrueche
+"abgehende Anrufe Gesprächsabbrüche";1_1_2_telefonie_abbrueche
+"Häufige Unterbrechungen der Telefonate";1_1_2_telefonie_abbrueche
+"zeitweise keine Telefonie möglich";1_1_2_telefonie_abbrueche
+"seit wir megenta home haben fällt das telefon immer wieder aus";1_1_2_telefonie_abbrueche
+"Telefon funktioniert zeitweise nicht";1_1_2_telefonie_abbrueche
+"Die Telefonate werden häufig einfach abgeschnitten oder stark unterbrochen.";1_1_2_telefonie_abbrueche
+"Telefonate werden unterbrochen";1_1_2_telefonie_abbrueche
+"Zeitweise keine Verbindung im Festnetzt";1_1_2_telefonie_abbrueche
+"Oftmals keine Verbindung zum Festnetztanschluss";1_1_2_telefonie_abbrueche
+"Festnetztelefon rauscht bei anrufen _  kann keine Stimmen hören.";1_1_3_telefonie_qualitaet
+"starkes Rauschen beim Telefonieren";1_1_3_telefonie_qualitaet
+"Das Telefon klingelt und gehe ich dann drann _  rauscht es nur und niemand ist dran. Später klingelt es wieder und das selbe Problem ist da.";1_1_3_telefonie_qualitaet
+"Mein Telefonpartner kann nichts verstehen _ ich hoere perfekt";1_1_3_telefonie_qualitaet
+"verbindung kommt zustande _  es ist aber nichts zu hören";1_1_3_telefonie_qualitaet
+"Wir haben eine Telefonanlage mit der Hauptnummer: {Telefonnummer} sowie der weiteren Nummer: {Telefonnummer}. Bei dem Anschluss {Telefonnummer} hört man bei eingehende und ausgehende Anrufe den anderen nicht.";1_1_3_telefonie_qualitaet
+"Wir haben eine Telefonanlage mit der Hauptnummer: {Telefonnummer} sowie der weiteren Nummer: {Telefonnummer}. Bei dem Anschluss {Telefonnummer} kann man eingehende und ausgehende Anrufe nichts verstehen";1_1_3_telefonie_qualitaet
+"Rauschen bei Telefonaten";1_1_3_telefonie_qualitaet
+"Gesprächspartner am anderen Ende der Leitung kann nicht gehört werden nachdem der Anruf entgegen genommen wurde";1_1_3_telefonie_qualitaet
+"Ich höre Geräusche beim Telefonieren";1_1_3_telefonie_qualitaet
+"Ich hören Geräusche beim Telefonieren.";1_1_3_telefonie_qualitaet
+"Beim Anrufen werde ich nicht gehört oder ich höre den Gegenüber nicht";1_1_3_telefonie_qualitaet
+"Beim Anrufen werde ich nicht gehört";1_1_3_telefonie_qualitaet
+"mein festnetz anschluss ist defekt.es läutet kann die anrufende person hören aber sie mich nicht.ist der apparat kaputt?";1_1_3_telefonie_qualitaet
+"Störgeräusche beim telefonieren. Knistern und rauschen";1_1_3_telefonie_qualitaet
+"Knacken in Leitung";1_1_3_telefonie_qualitaet
+"Telefonverbindung rauscht für den Angerufenenich höre die Sprache einwandfrei und ohne Rauschen";1_1_3_telefonie_qualitaet
+"Guten Morgen unsere Anschlüsse {Telefonnummer} und 902456 können nur noch mit Rauschen empfangen werden. Würden Sie bitte überprüfen ob die Leitung defekt ist? Vielen Dank E. Weber";1_1_3_telefonie_qualitaet
+"störgeräusche und rauschen beim telefonieren";1_1_3_telefonie_qualitaet
+"höre meinen anrufer nicht";1_1_3_telefonie_qualitaet
+"Beim telefonieren knackt es manchmal in der Leitung sodass der Gesprächspartner nicht verstanden werden kann";1_1_3_telefonie_qualitaet
+"Rauschen im festsetzen Telefon";1_1_3_telefonie_qualitaet
+"Knacken beim Telefonieren im Festnetz";1_1_3_telefonie_qualitaet
+"Rauschen beim telefonieren über Festnetz";1_1_3_telefonie_qualitaet
+"rauschen im Telefon";1_1_3_telefonie_qualitaet
+"Festnetz telefonieren geht nicht richtig  abgehacktes  reden kommt an und hört man";1_1_3_telefonie_qualitaet
+"Starkes Rauschen in der Leitung!  Telefonieren nicht möglich!!";1_1_3_telefonie_qualitaet
+"Starkes krachen während eines tel. Gesprächs.";1_1_3_telefonie_qualitaet
+"Der Anrufer kann alles hören der Angerufene hört allerdings nichts";1_1_3_telefonie_qualitaet
+"Kratz- und Schleifgeräusche beim Telefonieren in meinem DSL-Anschluss";1_1_3_telefonie_qualitaet
+"Beim Telefonieren hört man nichts. Die andere Seite versteht einem aber selbst kommt kein Ton an.";1_1_3_telefonie_qualitaet
+"ich habe sehr viel Störgeräusche beim Festnetz";1_1_3_telefonie_qualitaet
+"seit der umstellung rauscht mein telefon";1_1_3_telefonie_qualitaet
+"Starkes Rauschen in der Leitung";1_1_3_telefonie_qualitaet
+"das Problem beteht bereits 2 Tage und sollte heute früh behoben sein. ich kann nicht telefonieren nur Rauschen und krachen. Eingehende Anrufe kann ich kaum verstehen Rauschen und Krachen. Wann ist diese Angelegenheit nun erledigt.";1_1_3_telefonie_qualitaet
+"Festnetz verbindung möglich aber kann Anrufer nicht hören und Anrufer kann mich nicht hören";1_1_3_telefonie_qualitaet
+"Leitung rauscht";1_1_3_telefonie_qualitaet
+"Es knistert und knackt in der Leitung";1_1_3_telefonie_qualitaet
+"Schlechte Tonqualität beim Telefonieren über VoiP";1_1_3_telefonie_qualitaet
+"Schlechte Tonqualität beim Telefoniern mittels Router";1_1_3_telefonie_qualitaet
+"knacken und piepen in der Leitung";1_1_3_telefonie_qualitaet
+"telefon rausct";1_1_3_telefonie_qualitaet
+"mein Gegenüber kann mic nicht hören";1_1_3_telefonie_qualitaet
+"Festnetzanrufer hören mich nicht";1_1_3_telefonie_qualitaet
+"Anrufer können nicht gehört werden";1_1_3_telefonie_qualitaet
+"Ich habe das Problem das wenn ich versuche zu telefonieren das ich die angerufen Person nicht hören kann";1_1_3_telefonie_qualitaet
+"krachen in der leitung";1_1_3_telefonie_qualitaet
+"abgehackte gespräche";1_1_3_telefonie_qualitaet
+"störgeräusche in leitung";1_1_3_telefonie_qualitaet
+"Brummen beim telefonieren";1_1_3_telefonie_qualitaet
+"Man kann keine Anrufe tätigen";1_1_4_telefonie_keine_abgehende_gespraeche
+"Teilnehmer nicht erreichbar";1_1_4_telefonie_keine_abgehende_gespraeche
+"Der Festnetzanschluß {Telefonnummer} in Essen läßt sich von extern nicht mehr erreichen _  man kann aber von diesem Anschluß noch nach außen telefonieren. Die Anschlüsse DSL sowie Netzteil sind schon mal ab";1_1_4_telefonie_keine_abgehende_gespraeche
+"Keine Verbindung nach draussen _  Strom ist da.Das Gerät meldet: Telefonverbindung prüfen";1_1_4_telefonie_keine_abgehende_gespraeche
+"Besetzt Zeichen bei ausgehenden Anrufen";1_1_4_telefonie_keine_abgehende_gespraeche
+"ich kann nicht mehr raustelefonieren..die nummer wird hörbar gewählt..danach nur noch ein schnelles piepzeichen";1_1_4_telefonie_keine_abgehende_gespraeche
+"es besteht keine Möglichkeit mit dem Festnetzanschluß nach draußen zu telefonieren.";1_1_4_telefonie_keine_abgehende_gespraeche
+"kann nicht mehr raustelephonieren";1_1_4_telefonie_keine_abgehende_gespraeche
+"Guten Tag wir sind eine urologische Praxis. Von unserem Anschluss gehen keine Anrufe mehr ab";1_1_4_telefonie_keine_abgehende_gespraeche
+"ich habe bereits den Ruter für mind. 2 Minuten getrennt undkann noch immer nicht rausrufen";1_1_4_telefonie_keine_abgehende_gespraeche
+"Keine abgehende Anrufe";1_1_4_telefonie_keine_abgehende_gespraeche
+"Keine Ausgehenden Telefonate";1_1_4_telefonie_keine_abgehende_gespraeche
+"Kein ausgehender ruf";1_1_4_telefonie_keine_abgehende_gespraeche
+"Kann nicht nach Außen telefonieren.";1_1_4_telefonie_keine_abgehende_gespraeche
+"nicht raus telefonieren";1_1_4_telefonie_keine_abgehende_gespraeche
+"keine ausgehenden verbindung";1_1_4_telefonie_keine_abgehende_gespraeche
+"Eingehende Anrufe werden empfangen.rausrufen ist nicht möglich.";1_1_4_telefonie_keine_abgehende_gespraeche
+"Wenn ich telefonieren möchte ist dauer besetzt";1_1_4_telefonie_keine_abgehende_gespraeche
+"ausgehende Telefonate gehen nicht";1_1_4_telefonie_keine_abgehende_gespraeche
+"abgehende Gespräch zu anderen Telefongesellschaft funktionieren nicht";1_1_4_telefonie_keine_abgehende_gespraeche
+"ich kann keinen Anruf tätigen. Die Wahl der Nummer beginnt wird aber nicht durchgeführt";1_1_4_telefonie_keine_abgehende_gespraeche
+"Abgehende Gespräche nicht möglich";1_1_4_telefonie_keine_abgehende_gespraeche
+"Ich kann von meinem Anschluss  {Telefonnummer} keine Nummer in Leverkusen (0214) anrufen. Nach Wuppertal z.b. Geht es.";1_1_4_telefonie_keine_abgehende_gespraeche
+"ick kann den Anschluss (Festnetz) meiner Mutter nicht erreichen: {Telefonnummer}";1_1_4_telefonie_keine_abgehende_gespraeche
+"alle angerufenen Nummern sind scheinbar besetzt";1_1_4_telefonie_keine_abgehende_gespraeche
+"Keine abgehenden Gespräche möglich";1_1_4_telefonie_keine_abgehende_gespraeche
+"Störung ausgehende Anrufe";1_1_4_telefonie_keine_abgehende_gespraeche
+"keine abgehende gespräche möglic";1_1_4_telefonie_keine_abgehende_gespraeche
+"Ich kann vom Festnetz keine Festnetzanschlüsse von Unitymedia- Teilnehmern anrufen";1_1_4_telefonie_keine_abgehende_gespraeche
+"Abgehende Anrufe gestört.{Telefonnummer}";1_1_4_telefonie_keine_abgehende_gespraeche
+"Für unseren Festnetzanschluss {Telefonnummer} sind keine ausgehenden Gespräche mehr möglich. Eingehende Gespräche sind noch möglich.";1_1_4_telefonie_keine_abgehende_gespraeche
+"ich kann von meinem festnetz aus keine anderen Nummern anrufen";1_1_4_telefonie_keine_abgehende_gespraeche
+"wir können nicht mehr raus telefonieren";1_1_4_telefonie_keine_abgehende_gespraeche
+"Wenn ich eine Nummer wähle kommt immer das Besetzzeichen.";1_1_4_telefonie_keine_abgehende_gespraeche
+"ich kann keinen anrufen. ich kann aber angerufen werden und Internet funktioniert.";1_1_4_telefonie_keine_abgehende_gespraeche
+"Ihr gewünschter gESPRÄCHSPARTNER IST ZUR zEIT NICHT ERREICHBAR";1_1_4_telefonie_keine_abgehende_gespraeche
+"keine abgehenden anrufe möglich";1_1_4_telefonie_keine_abgehende_gespraeche
+"ausgehende Telefonie gestört";1_1_4_telefonie_keine_abgehende_gespraeche
+"Ich kann nicht abgehend telefonieren";1_1_4_telefonie_keine_abgehende_gespraeche
+"manchmal keine ausgehende verbindung";1_1_4_telefonie_keine_abgehende_gespraeche
+"Wenn ich eine Rufnummer gewählt habe ertönt immer das betetzzeichen";1_1_4_telefonie_keine_abgehende_gespraeche
+"Kein ausgehender Anruf möglich!";1_1_4_telefonie_keine_abgehende_gespraeche
+"Abgehende Telefonate können nicht mehr ausgeführt werden";1_1_4_telefonie_keine_abgehende_gespraeche
+"Ausgehende Anrufe sind nicht möglich";1_1_4_telefonie_keine_abgehende_gespraeche
+"Ausgehende Anrufe nicht möglich";1_1_4_telefonie_keine_abgehende_gespraeche
+"keine Anrufe raus";1_1_4_telefonie_keine_abgehende_gespraeche
+"ich kann vom Festnetz aus nicht telefonieren";1_1_4_telefonie_keine_abgehende_gespraeche
+"Ich kann vom Festnetz keine Handynummern anrufen";1_1_4_telefonie_keine_abgehende_gespraeche
+"keine abgehenden telefonate möglich";1_1_4_telefonie_keine_abgehende_gespraeche
+"der gewünschte teilnehmer ist derzeit nicht erreichbar";1_1_4_telefonie_keine_abgehende_gespraeche
+"Internet";1_2_internet_disambiguierung
+"Ich habe Probleme mit Entertain und Internet.";1_2_internet_disambiguierung
+"Router Speedpor W 724V Typ C";1_2_internet_disambiguierung
+"Hybrid";1_2_internet_disambiguierung
+"Hallo _  ich habe leider immer noch Probleme mit meiner DSL Leitung. Die Grundleitung ist soweit in Ordnung. Jedoch ist meine Funkleitung über LTE leider gerade am Wochenende miserabel und ich kann kein";1_2_internet_disambiguierung
+"Internetverbindung";1_2_internet_disambiguierung
+"internet gestört";1_2_internet_disambiguierung
+"Störung des Internetanschlusses liegt vor";1_2_internet_disambiguierung
+"Router";1_2_internet_disambiguierung
+"hallo telekom ich habe eine stoerung in der dsl leitung koennt ihr mir helfen die leitung wieder freizuschalten";1_2_internet_disambiguierung
+"Störung des Internets";1_2_internet_disambiguierung
+"Internetprobleme";1_2_internet_disambiguierung
+"Routerproblem";1_2_internet_disambiguierung
+"Mein router hat eine störung";1_2_internet_disambiguierung
+"seit gestern abend fibt es störung der dsl Leitung";1_2_internet_disambiguierung
+"Störung Internet Berlin Spandau";1_2_internet_disambiguierung
+"fritzbox";1_2_internet_disambiguierung
+"Ich habe Probleme mit Internet Verbindung";1_2_internet_disambiguierung
+"Unsere Internet hat Störungen  seit 2 Tagen";1_2_internet_disambiguierung
+"Router probleme";1_2_internet_disambiguierung
+"DSL VERBINDUNG";1_2_internet_disambiguierung
+"Störung beim Internet";1_2_internet_disambiguierung
+"Störung im internet";1_2_internet_disambiguierung
+"Internetzugang gestört";1_2_internet_disambiguierung
+"seitenaufbau";1_2_internet_disambiguierung
+"Routerprobleme";1_2_internet_disambiguierung
+"Die Datenverbindung des Anschlusses {Telefonnummer} in Offenbach am Main ist gestört. Kann die Störung behoben werden? Danke für eine Rückmeldung. {Name} AIDS-Hilfe Offenbach";1_2_internet_disambiguierung
+"DSL ROUTER MELDET stÖRUNG";1_2_internet_disambiguierung
+"Internetanschluss gestört";1_2_internet_disambiguierung
+"Speedlink 5501 meldet Störung";1_2_internet_disambiguierung
+"Internetseite technisches Problem";1_2_internet_disambiguierung
+"Es gibt erhebliche Störungen des Internets im Bereich 36320 Kirtorf";1_2_internet_disambiguierung
+"Fritzbox 7430";1_2_internet_disambiguierung
+"Internet Verbindungen";1_2_internet_disambiguierung
+"fritzbox 7490";1_2_internet_disambiguierung
+"Störungen im Internetanschluss";1_2_internet_disambiguierung
+"DSL";1_2_internet_disambiguierung
+"Störung der Internetverbindung";1_2_internet_disambiguierung
+"internet zugriff";1_2_internet_disambiguierung
+"Internetverbindung störung";1_2_internet_disambiguierung
+"Internetverbindung ist gestört";1_2_internet_disambiguierung
+"Probleme mit dem speedport";1_2_internet_disambiguierung
+"Internetverbindung über das Festnetz ist gestört";1_2_internet_disambiguierung
+"internetstörungen";1_2_internet_disambiguierung
+"Verbindung zum Router störung";1_2_internet_disambiguierung
+"DSL Anschluss gestörrt";1_2_internet_disambiguierung
+"Auch durch einen Wechsel des mir geschickten neuen Router ist das Problem nicht gelöst!";1_2_internet_disambiguierung
+"Mir wurde ein neuer Router geschicktaber das Problem ist nicht gelöst!Der Störungsdienst wollte sich heute auch wieder melden!";1_2_internet_disambiguierung
+"router storung";1_2_internet_disambiguierung
+"Interntstörung";1_2_internet_disambiguierung
+"Arris Modem blinkt _  Internet geht nicht _  TV ist in Ordnung";1_2_1_internet_kein_internet
+"keine Internetverbindung";1_2_1_internet_kein_internet
+"keine internet";1_2_1_internet_kein_internet
+"Komme nicht ins Internet";1_2_1_internet_kein_internet
+"Mein Internet ist ohne Funktion";1_2_1_internet_kein_internet
+"Kein Internet";1_2_1_internet_kein_internet
+"dauernd Ausfall vom internet";1_2_1_internet_kein_internet
+"Internet funktioniert nicht";1_2_1_internet_kein_internet
+"hallo ich habe sehr viele internet ausfälle habe aber die störung schon gemeldet";1_2_1_internet_kein_internet
+"Keine DSL Verbindung";1_2_1_internet_kein_internet
+"Hallo Telekom _  nach dem Regen am 03.06.2017 gegen die Mittagszeit ist bei uns das Internet ausgefallen. Wir haben alle Anschlüsse kontrolliert aber es funktioniert leider immer noch nicht.";1_2_1_internet_kein_internet
+"Internet funktioniert nicht  ruf Nummer {Telefonnummer}";1_2_1_internet_kein_internet
+"Kein Internet seit 30 Stunden";1_2_1_internet_kein_internet
+"seit etwa 8:50 habe ich kein Internet mehr _  vom PC zum Router gibt es einen ping jedoch nicht darüber hinaus";1_2_1_internet_kein_internet
+"kein Internet vorhanden _  ping bis Router geht aber nicht darüber hinaus";1_2_1_internet_kein_internet
+"Kann Rechnungen im Kundencenter nicht einsehen Internet meldet störung";1_2_1_internet_kein_internet
+"DSL funktioniert nicht";1_2_1_internet_kein_internet
+"Hallo _  bei meinem Nachbarn geht die Internetverbindung nicht mehr _  aber telefonieren kann er noch";1_2_1_internet_kein_internet
+"kein dsl signal";1_2_1_internet_kein_internet
+"Kein DSL";1_2_1_internet_kein_internet
+"Keine Internet Verbindung";1_2_1_internet_kein_internet
+"PPPoE-Fehler: Zeitüberschreitung";1_2_1_internet_kein_internet
+"Werden dauernd von internet getrennt";1_2_1_internet_kein_internet
+"Keine Verbindung nicht online trotz Neustart";1_2_1_internet_kein_internet
+"Internet geht nicht";1_2_1_internet_kein_internet
+"Momentan habe ich keinerlei Internetzugriff über die Fritzbox. Es gab vor kurzem einen Blitzeinschlag.  Telefon funktioniert jedoch.";1_2_1_internet_kein_internet
+"Es gab einen Blitzeinschlag. Ich habe keinerlei Internetzugriff von meiner fritzbox. Telefon funktioniert jedoch";1_2_1_internet_kein_internet
+"mein freund kommt nicht in den ruder rein und hat kein internet mehr auf den letop was kann ich da machen";1_2_1_internet_kein_internet
+"hallo _  der DSL Anschluss {Telefonnummer} wird nicht verbunden.";1_2_1_internet_kein_internet
+"dsl Signal wird nicht empfangen";1_2_1_internet_kein_internet
+"Internetverbindung nicht da";1_2_1_internet_kein_internet
+"Internet verbindungsprobleme";1_2_1_internet_kein_internet
+"Guten Abend! Haben leider kein Internetempfang mehr aber das normale tv (Telekom) funktioniert";1_2_1_internet_kein_internet
+"Verbindung mit dem Netzwerk nicht möglich";1_2_1_internet_kein_internet
+"dsl synchronisieren fehler";1_2_1_internet_kein_internet
+"Internet fällt sehr oft aus. Seit ca. 7 -10 Tagen. Fehlermeldung LAN-Verbindung verfügt über keine gültige IP-Konfiguration. WLAN funktioniert oft aber. Keine bekannten Veränderungen am PC vorgenommen.";1_2_1_internet_kein_internet
+"DSL Sync gestört";1_2_1_internet_kein_internet
+"Keine internetvervindung";1_2_1_internet_kein_internet
+"Keine Internetverbindung seit heute morgen.";1_2_1_internet_kein_internet
+"habe kein Internet mehr";1_2_1_internet_kein_internet
+"Router stellt keine Verbindung zum Internet her.";1_2_1_internet_kein_internet
+"Kein internet DSL tot";1_2_1_internet_kein_internet
+"Das Internet finktioniert nicht";1_2_1_internet_kein_internet
+"Keine Internetverbindugn";1_2_1_internet_kein_internet
+"Keine internett";1_2_1_internet_kein_internet
+"DSL Ausfall";1_2_1_internet_kein_internet
+"internet verbinung funktioniert nicht";1_2_1_internet_kein_internet
+"entertain und internet seit dem 12.01.17 seit12Uhr weg";1_2_1_internet_kein_internet
+"crc fehler";1_2_1_internet_kein_internet
+"Internet ausfall";1_2_1_internet_kein_internet
+"Die Verbindung meine Speedport Neo mit Powerline ist abgebrochen.";1_2_1_1_internet_powerline_ausgefallen
+"Telephonie und lan funktioniert nicht";1_2_1_2_internet_lan_ausgefallen
+"Kein Internetempfang. Der Router zeigt DSL Empfang an _  im Haus kein LAN Empfang.";1_2_1_2_internet_lan_ausgefallen
+"Mein lan ist ausgefallen";1_2_1_2_internet_lan_ausgefallen
+"lan funktioniert nicht";1_2_1_2_internet_lan_ausgefallen
+"Lan geht nicht";1_2_1_2_internet_lan_ausgefallen
+"Gerät bzw. die Ressource ( DNS- Server) antwortet nicht bei LAN Verbindung zum PC";1_2_1_2_internet_lan_ausgefallen
+"keine lan verbindung";1_2_1_2_internet_lan_ausgefallen
+"Keine LAN-Verbindung mehr";1_2_1_2_internet_lan_ausgefallen
+"Ein per LAN angeschlossenes Gerät kann Daten nicht Übermitteln";1_2_1_2_internet_lan_ausgefallen
+"kein lan";1_2_1_2_internet_lan_ausgefallen
+"Zugriff über LAN nicht möglich da keine Verbindung hergestellt wird. Fehlerbeschreibung: es ist keine gültige IP zugeteilt. WLAN geht.";1_2_1_2_internet_lan_ausgefallen
+"keine lan server verbindung";1_2_1_2_internet_lan_ausgefallen
+"Lan Verbindung funktioniert nicht mehr";1_2_1_2_internet_lan_ausgefallen
+"Keine Verbindung zu wlan";1_2_1_3_internet_wlan_ausgefallen
+"Das Internet geht nicht bei allen angeschlossen Geräten. Es wird zwar W-lan angezeigt aber es funktioniert nicht.";1_2_1_3_internet_wlan_ausgefallen
+"Kein Telefon oder WLAN";1_2_1_3_internet_wlan_ausgefallen
+"WLAN funktioniert nicht Geräte erkennen WLAN nicht";1_2_1_3_internet_wlan_ausgefallen
+"WLAN wird nicht mehr angezeigt";1_2_1_3_internet_wlan_ausgefallen
+"Wlan zeigt alle Balken aber verbinet sich nicht";1_2_1_3_internet_wlan_ausgefallen
+"W-LAN probleme";1_2_1_3_internet_wlan_ausgefallen
+"Das internet geht nicht bis jede Stunde vll mal 5 minuten. Kein telefon kein tv. Verbindung über wlan garnicht möglich auch nicht in der zeit wo es funktioniert. Seit etwa 24 stunden";1_2_1_3_internet_wlan_ausgefallen
+"WLAN probleme";1_2_1_3_internet_wlan_ausgefallen
+"WLAN fällt sporadisch aus";1_2_1_3_internet_wlan_ausgefallen
+"beim IP-geführten Anschluss mit speed-Port 724 V ist keine W-LAN verbindung möglich";1_2_1_3_internet_wlan_ausgefallen
+"WLAN stellt keine Verbindung her";1_2_1_3_internet_wlan_ausgefallen
+"W lan stürzt ab";1_2_1_3_internet_wlan_ausgefallen
+"Wlan funktioniert nicht";1_2_1_3_internet_wlan_ausgefallen
+"Wlan nicht verfügbar";1_2_1_3_internet_wlan_ausgefallen
+"wlan findet router nicht";1_2_1_3_internet_wlan_ausgefallen
+"WLAN funktioniert seit gestern nicht mehr";1_2_1_3_internet_wlan_ausgefallen
+"Hallo mein Internet funktioniert nicht! An Speedport leuchten nur die 'Power Link und WLAN' alle anderen sind aus.";1_2_1_3_internet_wlan_ausgefallen
+"WLAN funktioniert nicht mehr";1_2_1_3_internet_wlan_ausgefallen
+"Ich kann mich nicht mehr mit meinem WLAN verbinden.";1_2_1_3_internet_wlan_ausgefallen
+"kein WLAN";1_2_1_3_internet_wlan_ausgefallen
+"Mein WLAN geht nicht";1_2_1_3_internet_wlan_ausgefallen
+"WLAN geht nicht. WLAN Lampe ist an.";1_2_1_3_internet_wlan_ausgefallen
+"WLAN bei Speedport Hybrid kann sich nicht verbinden";1_2_1_3_internet_wlan_ausgefallen
+"Am Router Speedport W 723 V TYp A ist die WLAN Lampe aus?";1_2_1_3_internet_wlan_ausgefallen
+"wlan geht nicht";1_2_1_3_internet_wlan_ausgefallen
+"wlan vom router geht nicht";1_2_1_3_internet_wlan_ausgefallen
+"kein w-lan netz verfügbar";1_2_1_3_internet_wlan_ausgefallen
+"kein w-lan verfügabr";1_2_1_3_internet_wlan_ausgefallen
+"kein w-lan";1_2_1_3_internet_wlan_ausgefallen
+"w-lan lampe leuchtet nicht";1_2_1_3_internet_wlan_ausgefallen
+"WLAN funktioniert nicht.";1_2_1_3_internet_wlan_ausgefallen
+"wlan problem";1_2_1_3_internet_wlan_ausgefallen
+"Keine WLAN Verbindung vom Gerät zum Laptop";1_2_1_3_internet_wlan_ausgefallen
+"Habe kein WLAN";1_2_1_3_internet_wlan_ausgefallen
+"Mein Wlan geht nicht mehr";1_2_1_3_internet_wlan_ausgefallen
+"wlan funktioniert nicht mit dem handy";1_2_1_3_internet_wlan_ausgefallen
+"Keine WLAN verbindung";1_2_1_3_internet_wlan_ausgefallen
+"Ich habe Probleme mit meinem Wlan";1_2_1_3_internet_wlan_ausgefallen
+"WLAN geht nicht mehr";1_2_1_3_internet_wlan_ausgefallen
+"Speerport W 724 V WLAN funktioniert nicht";1_2_1_3_internet_wlan_ausgefallen
+"mein w lan geht zu hause noch nicht";1_2_1_3_internet_wlan_ausgefallen
+"Das WLAN funktioniert nicht. Telefon und Fernsehen aber schon";1_2_1_3_internet_wlan_ausgefallen
+"Wlan funktioniert nicht  . Telefon und Fernsehen aber schon";1_2_1_3_internet_wlan_ausgefallen
+"kein W-lan beim Speedport W723";1_2_1_3_internet_wlan_ausgefallen
+"Der Wlan ist zwar am leuchten funktioniert aber nicht. Der Fernseher funktioniert auch. Das Telefon auch";1_2_1_3_internet_wlan_ausgefallen
+"Kein Welan";1_2_1_3_internet_wlan_ausgefallen
+"Seit gestern abend leuchtet das Wlan Lämpchen an unserem Router nicht mehr es funktioniert auch kein wlan. Was können wir tun?";1_2_1_3_internet_wlan_ausgefallen
+"Keine WLAN Verbindung möglich";1_2_1_3_internet_wlan_ausgefallen
+"Wlan störungen";1_2_1_3_internet_wlan_ausgefallen
+"Hallo _  seit über einer Woche stehen bei meinem DSL nur noch 30 MBit/s statt der gewohnten 50 zur Verfügung.";1_2_2_internet_langsam
+"Dsl Geschwindigkeit sehr gering mit Ausfällen";1_2_2_internet_langsam
+"Leitung VDSL 50 Download nur 26 _ 1 Mbit/s";1_2_2_internet_langsam
+"Guten Tag _  seit Tagen habe ich Abbrüche in der Internetverbindung und Leistungseinschränkunen in der Bandbreite";1_2_2_internet_langsam
+"DSL zu langsam";1_2_2_internet_langsam
+"DSL-Leitung sehr langsam _  statt gewöhnlich 5-6 MBit/s nur noch 2 MBit/s";1_2_2_internet_langsam
+"Meine internetverbindung bricht ganze zeit ab und es lässt sich keine neue DSL verbindung herstellen.";1_2_2_internet_langsam
+"downloadtest ergibt nur 14 mbit statt 50mbit";1_2_2_internet_langsam
+"DSL-Leitung hat nicht mehr die volle Bandbreite";1_2_2_internet_langsam
+"Wir haben jeden Tag Problemen mit Internet Verbindung es ist zu langsam oder hast keine Verbindung.";1_2_2_internet_langsam
+"Kein Geschwindigkeitszuwachs nach Umstellung auf Magenta Zuhause M Surf Zuhause M Call & Surf Comfort";1_2_2_internet_langsam
+"Internet ist sehr langsam";1_2_2_internet_langsam
+"Nach umstellung auf Vdsl ist meine internetleistung unter 1000 statt 50000";1_2_2_internet_langsam
+"dsl bandbreite";1_2_2_internet_langsam
+"hoher ping - langsames internet ohne fehlermeldungen";1_2_2_internet_langsam
+"Bei einem Speedtest hatte ich nur die Geschwingigkeit 12086 anstatd den zugesagten 16000 . was kann ich tun ?";1_2_2_internet_langsam
+"DSL langsam";1_2_2_internet_langsam
+"download sehr langsam";1_2_2_internet_langsam
+"extrem langsame Internetverbindung";1_2_2_internet_langsam
+"Internet Geschwindigkeit";1_2_2_internet_langsam
+"DSL Geschwindigkeit zu niedrig";1_2_2_internet_langsam
+"internet extrem langsam";1_2_2_internet_langsam
+"Internetleistung sehr schwach. Übertragungsrate zu gering.";1_2_2_internet_langsam
+"Downloadgeschwindigkeit";1_2_2_internet_langsam
+"Internet zumeist zu langsam";1_2_2_internet_langsam
+"Kein datendurchsatz";1_2_2_internet_langsam
+"DSL Speed zu langsam. DSL 16000 - normal ca. 13000 - jetzt nur noch 5000";1_2_2_internet_langsam
+"Habe nur 50 m/bit obwohl ich VDSL100 habe";1_2_2_internet_langsam
+"Internet mehrmals am Tag so langsam dass nicht einmal eine einfache Seite aufgebaut werden kann";1_2_2_internet_langsam
+"geschwindigkeit langsamer";1_2_2_internet_langsam
+"Geschwindigkeit zu langsam";1_2_2_internet_langsam
+"DSL Bandbreite zu gering";1_2_2_internet_langsam
+"Download und Upload Geschwindigkeit ist zu niedrig";1_2_2_internet_langsam
+"habe vdsl50 ist aber extrem langsam. was tun?";1_2_2_internet_langsam
+"Die Internetverbindung und die TV Verbindung stockt seit Freitag. Ein ruhiger Fernsehnabend ohne Störung im Fernsehnprogramm ist nicht möglich";1_2_2_internet_langsam
+"DSL Verbindung zu langsam";1_2_2_internet_langsam
+"internet wurde sehr langsam";1_2_2_internet_langsam
+"Seit den letzten Störungen ist die DSL Geschwindigkeit um 30Prozent niedriger als Vertraglich festgelegt ist knapp 70000 statt der 100000 MBit";1_2_2_internet_langsam
+"Anstatt der vertraglichen 50k - welche auch sonst ankommen - kommen nur noch maximal 19k an.";1_2_2_internet_langsam
+"Langsamen Verbindung probleme bei Entertain";1_2_2_internet_langsam
+"keine Bandbreite";1_2_2_internet_langsam
+"dsl bandbreite zu niedrig";1_2_2_internet_langsam
+"Internetverbindung ist seit zwei Tagen sehr schlecht.";1_2_2_internet_langsam
+"internet ist oft langsam";1_2_2_internet_langsam
+"Internetverbindung zu langsam";1_2_2_internet_langsam
+"Zu Langsamer Upload";1_2_2_internet_langsam
+"Upload viel zu gering";1_2_2_internet_langsam
+"Haben schon seit Einzug in unser Eigenheim eine schlechte Internetverbindung mit zum Teil erheblichen Ausfällen.";1_2_2_internet_langsam
+"ich kann nur mit 16.663kbit/s Downloaden";1_2_2_internet_langsam
+"downstream max 145KB/s upstream nahezu doppelt so hoch";1_2_2_internet_langsam
+"mein wlan ist instabil";1_2_2_1_internet_wlan_schlecht
+"W-LAN Signal setzt aus";1_2_2_1_internet_wlan_schlecht
+"wlan bricht immer wieder zusammen";1_2_2_1_internet_wlan_schlecht
+"WLAN ist instabil";1_2_2_1_internet_wlan_schlecht
+"WLAN Abbrüche";1_2_2_1_internet_wlan_schlecht
+"wlan bricht ständig ab";1_2_2_1_internet_wlan_schlecht
+"wlan langsam";1_2_2_1_internet_wlan_schlecht
+"Wlan ist sehr langsam";1_2_2_1_internet_wlan_schlecht
+"WLAN-Ist seit ca. 2Wochen schlechter und schwächer";1_2_2_1_internet_wlan_schlecht
+"ich habe probleme mit dem  Wlan es bricht öfter mal ab uss dann am router immer wieder aus und dann anschalten so das es wieder funktioniert";1_2_2_1_internet_wlan_schlecht
+"wlan immer wieder weg";1_2_2_1_internet_wlan_schlecht
+"Internet ist im WLAN-Betrieb sehr langsam";1_2_2_1_internet_wlan_schlecht
+"WLAN langsam bis gar nicht";1_2_2_1_internet_wlan_schlecht
+"Wlan bricht immer ab";1_2_2_1_internet_wlan_schlecht
+"WLAN stürzt ständig ab. Auch nach Ausschalten des Routers";1_2_2_1_internet_wlan_schlecht
+"WLAN im Haus sehr stark verlangsamt WLAN fällt im Haus sehr häufig aus zu dem bei Entertain in der Programmübersicht keine Anzeige der Programme sondern 'Wird geladen...'";1_2_2_1_internet_wlan_schlecht
+"WLAN Ausfall mehrfach";1_2_2_1_internet_wlan_schlecht
+"WLAN schwach";1_2_2_1_internet_wlan_schlecht
+"W-Lan zu langsam";1_2_2_1_internet_wlan_schlecht
+"W-Lan Empfang fällt häufig aus";1_2_2_1_internet_wlan_schlecht
+"Wlan abrüche";1_2_2_1_internet_wlan_schlecht
+"wlan abbrechen andauernd";1_2_2_1_internet_wlan_schlecht
+"WLAN Verbindung bricht ständig ab";1_2_2_1_internet_wlan_schlecht
+"wlan verbindun schlecht";1_2_2_1_internet_wlan_schlecht
+"Immer wieder kein bzw schlechtes wlan";1_2_2_1_internet_wlan_schlecht
+"WLAN hängt und bricht ab";1_2_2_1_internet_wlan_schlecht
+"wlan unterbrechungen";1_2_2_1_internet_wlan_schlecht
+"schwaches Wlan";1_2_2_1_internet_wlan_schlecht
+"Immer wieder ist die Wlan-Verbindung unterbrochen";1_2_2_1_internet_wlan_schlecht
+"Wlan geht schlecht";1_2_2_1_internet_wlan_schlecht
+"guten morgenwir haben zwar den router richtig angeschlossen aber wenn wir dann auf den geräten gucken dann steht da bei unserem wlan ausserhalb der reichweiteaber komischer weise ging es vorher und jetzt geht es nur noch am computer";1_2_2_1_internet_wlan_schlecht
+"wlan empfang ist schwach in der küche";1_2_2_1_internet_wlan_schlecht
+"WLAN bricht ab";1_2_2_1_internet_wlan_schlecht
+"WLAN geht nicht immer";1_2_2_1_internet_wlan_schlecht
+"wlan instabil";1_2_2_1_internet_wlan_schlecht
+"wlan schaltet immer ein und aus";1_2_2_1_internet_wlan_schlecht
+"Wlan zu schwankt";1_2_2_1_internet_wlan_schlecht
+"wifi funktioniert nicht gut";1_2_2_1_internet_wlan_schlecht
+"wlan schlecht";1_2_2_1_internet_wlan_schlecht
+"wlan zu langsam";1_2_2_1_internet_wlan_schlecht
+"wlan signal bricht regelmäßig ab";1_2_2_1_internet_wlan_schlecht
+"wlan funktioniert nur sporadisch";1_2_2_1_internet_wlan_schlecht
+"Unser WLAN stockt häufig. Dann erscheint die Meldung: wegen zu langsamer Verbindung unterbrochen";1_2_2_1_internet_wlan_schlecht
+"von meinem router fällt ständig w lan aus";1_2_2_1_internet_wlan_schlecht
+"Das WLAN unterbricht ständig und muß neu 'verbunden' werden";1_2_2_1_internet_wlan_schlecht
+"Das WIFI ist sehr instabil obwohl WALAN gut funktioniert";1_2_2_1_internet_wlan_schlecht
+"router W724V bricht Wlan ständig zusammen nach einiger Zeit";1_2_2_1_internet_wlan_schlecht
+"wlan funktioniert nicht richtig verbinung bricht immer wieder ab";1_2_2_1_internet_wlan_schlecht
+"WLAN Verbindung setzt aus";1_2_2_1_internet_wlan_schlecht
+"Das Wlan geht nicht richtig Geräte verbinden sich nicht richtig bzw nur kurz";1_2_2_1_internet_wlan_schlecht
+"Internet funktioniert nur Sekunden weise dann unterbricht die Verbindung und dann hat man wieder internet.";1_2_3_internet_abbrueche
+"Guten Morgen seit gestern bricht die Verbindung zum Internet immer wieder ab. fritzbox zeigt an das die dsl verbindung unterbrochen ist";1_2_3_internet_abbrueche
+"zeitweise keine Internetverbindung erst nach unterbrechung der Netzspannung vom router wieder Verbindung jedoch nur für ein paar Stunden";1_2_3_internet_abbrueche
+"internet abbrüche";1_2_3_internet_abbrueche
+"Regelmäßige DSL-Verbindungsabbrüche seit Samstag Morgen";1_2_3_internet_abbrueche
+"DSL Setzt immer wieder aus";1_2_3_internet_abbrueche
+"Bei zunächst offenbar perfekten Internetverbindung (5 Balken) bricht  Verbindung immer wieder zusammen (2-3 Bal";1_2_3_internet_abbrueche
+"Ich bin seit gestern wieder zuhause und es fällt alle 4 bis 10 min das Internet aus.";1_2_3_internet_abbrueche
+"internet abbruch";1_2_3_internet_abbrueche
+"Guten Tag unser Internet bricht ständig zusammen";1_2_3_internet_abbrueche
+"Mein Router verliert täglich manchmal sogar mehrmals die Verbindung zum Internet das WLAN wird als funktionierend angezeigt.";1_2_3_internet_abbrueche
+"Interverbindung bricht ständig zusammen";1_2_3_internet_abbrueche
+"Verbindung über Router W723V fällt häufig aus.";1_2_3_internet_abbrueche
+"Internet fällt ständig aus";1_2_3_internet_abbrueche
+"Hallo ca alle 10 Minuten Ausfall von DSL";1_2_3_internet_abbrueche
+"Das Internet fällt ständig aus!";1_2_3_internet_abbrueche
+"Internet fällt sporadisch aus";1_2_3_internet_abbrueche
+"Seit Tagen wird die Internetverbindung abgebrochen und manchmal nach wenigen Minuten wieder aufgebaut ABER manchmal dauert die Unterbrechung bis1-2 Stunden. Die kurzen Unterbrechungen dauern 1-5 Minuten. Pro Stunde bis 3-4 mal. Verkabelung bei uns OHNE Fehler - es liegt an der TELEKOM!!!!!";1_2_3_internet_abbrueche
+"Regelmäßiger Ausfall des Internets";1_2_3_internet_abbrueche
+"seitdem ich entertain mit im anschluss habe fällt  in unregelmässigen abständen das internet aus warum";1_2_3_internet_abbrueche
+"DSL Abbrüche fast aller 3 Minuten";1_2_3_internet_abbrueche
+"Internetverbindung unterbricht";1_2_3_internet_abbrueche
+"zeitweise fällt das Internet aus erst durch kurzzeitige Trennung der Spannungsversorgung startet das Internet dann wieder";1_2_3_internet_abbrueche
+"Internetverbindung bricht immer ab";1_2_3_internet_abbrueche
+"Internetverbindung bricht ständig ab";1_2_3_internet_abbrueche
+"Das Internet wird in den letzten Wochen oft unterbrochen. Ich muss jedes Mal den Router vom Stromnetz lösen und nach einer Weile neu hochfahren. Die Störungen nehmen nun immer mehr zu.";1_2_3_internet_abbrueche
+"Unterbrechungen der Internetverbindung";1_2_3_internet_abbrueche
+"dsl verbindungsabbrüche";1_2_3_internet_abbrueche
+"Die Internetverbindung bricht regelmäßig ab und geht dann nach ca. 10 Minuten wieder.";1_2_3_internet_abbrueche
+"Unser Internet fällt immer wieder für Tage aus. Dann funktioniert es für eine Stunde dann ist es wieder weg. Haben den speedport w 723v. Alle leuchtanzeigen gehen bis auf DSL (die blinkt) und online leuchtet gar nicht.";1_2_3_internet_abbrueche
+"router bricht ständig DSL verbindung ab";1_2_3_internet_abbrueche
+"internet bricht ab";1_2_3_internet_abbrueche
+"Internetabbrüche";1_2_3_internet_abbrueche
+"ständiger ausfall der Internetverbindung";1_2_3_internet_abbrueche
+"mein IP-Anschluss hat immer wieder Verbindungsabbrüche";1_2_3_internet_abbrueche
+"dsl abbrüche";1_2_3_internet_abbrueche
+"Internet fällt dauernd aus";1_2_3_internet_abbrueche
+"Das Internet geht manchmal für 40 bis 60 Minuten weg";1_2_3_internet_abbrueche
+"Abbrüche DSL Synchronisation";1_2_3_internet_abbrueche
+"DSL Verbindung bricht ab";1_2_3_internet_abbrueche
+"Abbrüche Internet";1_2_3_internet_abbrueche
+"Ständige kurzfristige Unterbrechungen des Wlan-Netzes und des Netzwerkanschlusses.";1_2_3_internet_abbrueche
+"Router unerbricht Internetverbindung";1_2_3_internet_abbrueche
+"teilweise unterbrochene internetverbindung";1_2_3_internet_abbrueche
+"Unterbrechungen beim Surfen";1_2_3_internet_abbrueche
+"internet verbindung bricht immer ab";1_2_3_internet_abbrueche
+"Internet stürzt immer wieder ab";1_2_3_internet_abbrueche
+"Immer wieder Internet Ausfall";1_2_3_internet_abbrueche
+"Häufige Ausfälle der Internetverbindung";1_2_3_internet_abbrueche
+"Internet Verbindung reisst immer ab";1_2_3_internet_abbrueche

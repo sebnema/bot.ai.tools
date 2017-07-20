@@ -1,0 +1,453 @@
+﻿Intent;Utterance
+0_begruessung;Hallo
+0_begruessung;Guten tag
+1_stoerung_disambiguierung;Mein Anschluss ist gestört 
+1_stoerung_disambiguierung;Anschluss 030 123456 
+1_stoerung_disambiguierung;Ich möchte eine Störung melden
+1_stoerung_disambiguierung;Derzeit kommt es leider zu Ausfällen an meinem Anschluss 
+1_stoerung_disambiguierung;Mein Anschluss geht nicht mehr 
+1_stoerung_disambiguierung;Bringen sie meinen Anschluss wieder auf Vordermann
+1_stoerung_disambiguierung;Bringen sie meinen Anschluss wieder zum laufen
+1_stoerung_disambiguierung;Machen Sie meine Leitung wieder funktionstüchtig
+1_stoerung_disambiguierung;Ich möchte eine Störung behoben haben
+1_stoerung_disambiguierung;Es liegt ein Ausfall vor
+1_stoerung_disambiguierung;Mein Anschluss sagt keinen Mux mehr
+1_stoerung_disambiguierung;mein Anschluss ist hin 
+1_stoerung_disambiguierung;Die Leitung ist tot
+1_stoerung_disambiguierung;Leitung weg
+1_stoerung_disambiguierung;ich mag Router
+1_stoerung_disambiguierung;ich will keinen Router
+1_1_telefonie_disambiguierung;Ich kann nicht telefonieren
+1_1_telefonie_disambiguierung;es geht um meinen Telefonanschluss 
+1_1_telefonie_disambiguierung;030123456 gestört 
+1_1_telefonie_disambiguierung;Reparieren Sie mein Telefon. 
+1_1_telefonie_disambiguierung;ich möchte eine telefon störung melden 
+1_1_telefonie_disambiguierung;anrufen geht nicht 
+1_1_telefonie_disambiguierung;Ich habe Ärger mit meinem Telefonanschluss. 
+1_1_telefonie_disambiguierung;Telefonieren will einfach nicht mehr gehen 
+1_1_telefonie_disambiguierung;ich kann nicht telefonieren aber surfen 
+1_1_telefonie_disambiguierung;ich kann surfen aber nicht telefonieren 
+1_1_telefonie_disambiguierung;surfen kann ich aber nicht telefonieren 
+1_1_telefonie_disambiguierung;will Störung am Telefon melden 
+1_1_telefonie_disambiguierung;telefonisch nicht erreichbar 
+1_1_telefonie_disambiguierung;keine telefonische Erreichbarkeit 
+1_1_telefonie_disambiguierung;Anschluss nicht erreichbar 
+1_1_telefonie_disambiguierung;Telefonie ausgefallen, Internet geht 
+1_1_telefonie_disambiguierung;telefonie geht nicht, internet geht 
+1_1_telefonie_disambiguierung;telefonie geht nicht, internet schon 
+1_1_telefonie_disambiguierung;Internet funktioniert, Telefonie gestört 
+1_1_telefonie_disambiguierung;Internet funktioniert, Telefon gestört 
+1_1_telefonie_disambiguierung;internet geht, telefonie ausgefallen 
+1_1_telefonie_disambiguierung;internet geht, telefonie ausgefallen 
+1_1_telefonie_disambiguierung;internet geht, telefonie nicht 
+1_1_telefonie_disambiguierung;Entertain funktioniert, Telefonie ist ausgefallen Telefonie funktioniert nicht (WLAN Router W921V) 
+1_1_telefonie_disambiguierung;Bei Anrufen nur Besetztzeichen zu hören 
+1_1_telefonie_disambiguierung;Leitung besetzt 
+1_1_telefonie_disambiguierung;Anschluss ist belegt 
+1_1_telefonie_disambiguierung;mein Anschluss ist besetzt 
+1_1_telefonie_disambiguierung;Anrufe kommen nicht durch 
+1_1_telefonie_disambiguierung;Besetztzeichen
+1_1_telefonie_disambiguierung;ich mag telefonieren
+1_1_telefonie_disambiguierung;ich möchte nicht telefonieren 
+1_1_telefonie_disambiguierung;ich möchte kein telefon 
+1_1_telefonie_disambiguierung;ich möchte keine telefon-verbindung 
+1_1_telefonie_disambiguierung;Einen Telefonanschluss will ich nicht
+1_1_1_telefonie_ankommend_oder_beidseitig;Es erreichen mich keine Anrufe.
+1_1_1_telefonie_ankommend_oder_beidseitig;Es kann mich niemand mehr erreichen.
+1_1_1_telefonie_ankommend_oder_beidseitig;mein telefonanschluss lässt sich nicht erreichen
+1_1_1_telefonie_ankommend_oder_beidseitig;Kein Mensch kann mich anrufen.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich erhalte keine Anrufe.
+1_1_1_telefonie_ankommend_oder_beidseitig;Es kommen keine Gespräche an.
+1_1_1_telefonie_ankommend_oder_beidseitig;keine ankommenden Gespräche
+1_1_1_telefonie_ankommend_oder_beidseitig;Auf meinem Telefon treffen keine Anrufe ein.
+1_1_1_telefonie_ankommend_oder_beidseitig;Es erscheint kein einziger Anruf.
+1_1_1_telefonie_ankommend_oder_beidseitig;Bei mir landen keine Anrufe.
+1_1_1_telefonie_ankommend_oder_beidseitig;Man kann mich nicht am Telefon erreichen.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich habe Probleme mit ankommenden Telefonaten.
+1_1_1_telefonie_ankommend_oder_beidseitig;eingehende Gespräche werden nicht durchgestellt
+1_1_1_telefonie_ankommend_oder_beidseitig;bin nicht erreichbar
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich habe ankommend keine Verbindung.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ankommende Gespräche gehen nicht.
+1_1_1_telefonie_ankommend_oder_beidseitig;Gesprächspartner kommen nicht rein
+1_1_1_telefonie_ankommend_oder_beidseitig;kann nicht angerufen werden
+1_1_1_telefonie_ankommend_oder_beidseitig;mein Anschluss ist nicht erreichbar
+1_1_1_telefonie_ankommend_oder_beidseitig;keine ankommenden Gespräche nur abgehende
+1_1_1_telefonie_ankommend_oder_beidseitig;Gespräche kommen nicht rein, gehen nur raus
+1_1_1_telefonie_ankommend_oder_beidseitig;Gespräche gehen nur raus, kommen nicht rein
+1_1_1_telefonie_ankommend_oder_beidseitig;Gespräche kommen nur raus, nicht rein
+1_1_1_telefonie_ankommend_oder_beidseitig;Sprachbox geht sofort ran ohne Telefonklingeln
+1_1_1_telefonie_ankommend_oder_beidseitig;Mailbox startet sofort
+1_1_1_telefonie_ankommend_oder_beidseitig;Anruf landet direkt auf der Telekom Mailbox
+1_1_1_telefonie_ankommend_oder_beidseitig;Störung ankommend
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich kann sowohl ankommend als auch abgehend nicht telefonieren.
+1_1_1_telefonie_ankommend_oder_beidseitig;Kann weder Telefonanrufe tätigen noch angerufen werden
+1_1_1_telefonie_ankommend_oder_beidseitig;In beiden Richtungen kann ich nicht telefonieren.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich habe beidseitig keine Verbindung.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich kann nicht telefonieren und keine Gespräche annehmen
+1_1_1_telefonie_ankommend_oder_beidseitig;Wir können nicht telefonieren und es kann auch keiner anrufen
+1_1_1_telefonie_ankommend_oder_beidseitig;Bidirektional besteht keine Telefonverbindung.
+1_1_1_telefonie_ankommend_oder_beidseitig;Es kommen keine Telefongespräche an und ich kann auch nicht abgehend telefonieren.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich kann weder raus telefonieren noch kann mich jemand anrufen.
+1_1_1_telefonie_ankommend_oder_beidseitig;Können nicht raustelefonieren, eingehende Gespräche gehen auf die Sprachbox
+1_1_1_telefonie_ankommend_oder_beidseitig;Beiderseitig kann ich nicht telefonieren.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich höre kein Freizeichen.
+1_1_1_telefonie_ankommend_oder_beidseitig;Ich habe keinen Wählton.
+1_1_1_telefonie_ankommend_oder_beidseitig;kein Amt
+1_1_1_telefonie_ankommend_oder_beidseitig;Kann nicht rein- und rausrufen
+1_1_1_telefonie_ankommend_oder_beidseitig;keine ein- und ausgehenden Anrufe möglich
+1_1_1_telefonie_ankommend_oder_beidseitig;Meine Telefonleitung ist unterbrochen 
+1_1_1_telefonie_ankommend_oder_beidseitig;ich habe keine telefon-verbindung
+1_1_1_telefonie_ankommend_oder_beidseitig;Mein Telefonanschluss geht nicht mehr.
+1_1_1_telefonie_ankommend_oder_beidseitig;Unsere Telefonnummer geht nicht mehr.
+1_1_1_telefonie_ankommend_oder_beidseitig;Telefondose
+1_1_1_telefonie_ankommend_oder_beidseitig;kein anruf aus- und eingehend
+1_1_1_telefonie_ankommend_oder_beidseitig;kein anruf ein- und ausgehend
+1_1_1_telefonie_ankommend_oder_beidseitig;Telefon ausgefallen, Internet geht
+1_1_1_telefonie_ankommend_oder_beidseitig;telefonanschluss geht nicht, internet geht
+1_1_1_telefonie_ankommend_oder_beidseitig;telefon geht nicht, internet schon
+1_1_1_telefonie_ankommend_oder_beidseitig;internet geht, telefon ausgefallen
+1_1_1_telefonie_ankommend_oder_beidseitig;internet geht, telefon geht nicht
+1_1_1_telefonie_ankommend_oder_beidseitig;internet geht, telefon nicht
+1_1_1_telefonie_ankommend_oder_beidseitig;Es ist nur ein Rauschen zu hören, keine Verbindungen mehr möglich.
+1_1_1_telefonie_ankommend_oder_beidseitig;keine Telefonfunktion
+1_1_1_telefonie_ankommend_oder_beidseitig;Festnetzausfall
+1_1_1_telefonie_ankommend_oder_beidseitig;Festnetz ist ausgefallen
+1_1_1_telefonie_ankommend_oder_beidseitig;kein Festnetz
+1_1_1_telefonie_ankommend_oder_beidseitig;kein Telefon
+1_1_1_telefonie_ankommend_oder_beidseitig;ich will nicht angerufen werden
+1_1_1_1_telefonie_stoerung_ip_anschluss;Ich kann mit meinem All-IP-Anschluss nicht telefonieren
+1_1_1_1_telefonie_stoerung_ip_anschluss;Mein All-IP-Telefonanschluss geht nicht mehr
+1_1_1_1_telefonie_stoerung_ip_anschluss;Ich habe eine Störung an meinem AllIP Telefonanschluß
+1_1_1_1_telefonie_stoerung_ip_anschluss;keine Internet Telefonie
+1_1_1_1_telefonie_stoerung_ip_anschluss;VoIP funktioniert nicht
+1_1_1_1_telefonie_stoerung_ip_anschluss;mein ip-telefonanschluss geht nicht
+1_1_1_1_telefonie_stoerung_ip_anschluss;Ich kann nicht über VoIP telefonieren.
+1_1_1_1_telefonie_stoerung_ip_anschluss;Bei mir ist VoIP gestört
+1_1_1_2_telefonie_stoerung_universalanschluss;Ich kann mit meinem ISDN-Anschluss nicht telefonieren.
+1_1_1_2_telefonie_stoerung_universalanschluss;Mein Universalanschluss funktioniert nicht mehr.
+1_1_1_2_telefonie_stoerung_universalanschluss;Kein ISDN
+1_1_1_3_telefonie_stoerung_standardanschluss;Ich kann mit meinem T-Net-Anschluss nicht telefonieren. 
+1_1_1_3_telefonie_stoerung_standardanschluss;Mein Standard-Telefonanschluss geht nicht mehr. 
+1_1_1_3_telefonie_stoerung_standardanschluss;Mein Analoganschluss ist kaputt.
+1_1_2_telefonie_abbrueche;Es kommt am Telefon ständig zu Abbrüchen. 
+1_1_2_telefonie_abbrueche;Plötzlich bricht die Telefonverbindung zusammen.
+1_1_2_telefonie_abbrueche;Es werden immer wieder Telefonate abgebrochen.
+1_1_2_telefonie_abbrueche;Es unterbrechen meine Gespräche.
+1_1_2_telefonie_abbrueche;Abbrüche beim Telefon
+1_1_2_telefonie_abbrueche;beim telefonieren treten Unterbrechungen auf
+1_1_2_telefonie_abbrueche;Telefongespräche werden unterbrochen
+1_1_2_telefonie_abbrueche;hin und wieder keine Telefonie
+1_1_2_telefonie_abbrueche;Gespräche werden nach kurzer Zeit getrennt
+1_1_2_telefonie_abbrueche;Sprachtelefonie am IP-Anschluss ist zeitweise gestört
+1_1_2_telefonie_abbrueche;Sporadischer Abbruch der Telefonverbindung mit Besetztzeichen
+1_1_2_telefonie_abbrueche;Gesprächsabbrüche
+1_1_3_telefonie_qualitaet;Ich stelle eine schlechte Qualität beim telefonieren fest. 
+1_1_3_telefonie_qualitaet;Die Qualität beim telefonieren ist schlechter geworden
+1_1_3_telefonie_qualitaet;Habe ein Rauschen auf der Leitung.
+1_1_3_telefonie_qualitaet;Kann meinen Gesprächspartner nicht richtig hören.
+1_1_3_telefonie_qualitaet;Es knistert in der Leitung.
+1_1_3_telefonie_qualitaet;Ich kann meinen Gegenüber schlecht verstehen.
+1_1_3_telefonie_qualitaet;ich kann mit meinen Gesprächspartner nur schlecht telefonieren
+1_1_3_telefonie_qualitaet;ich konnte schon mal besser anrufen
+1_1_3_telefonie_qualitaet;Wir hören Geräusche beim telefonieren.
+1_1_3_telefonie_qualitaet;Da ist ein Gepiepe auf der Leitung.
+1_1_3_telefonie_qualitaet;Ich höre Töne beim anrufen.
+1_1_3_telefonie_qualitaet;Tonprobleme beim telefonieren
+1_1_3_telefonie_qualitaet;Ich muss mich ganz schön anstrengen, um jemanden zu hören.
+1_1_3_telefonie_qualitaet;Mein Gesprächspartner ist zu leise.
+1_1_3_telefonie_qualitaet;Ich vernehme ständig Knackgeräusche beim telefonieren.
+1_1_3_telefonie_qualitaet;Ich habe keine Qualität beim telefonieren.
+1_1_3_telefonie_qualitaet;Die Telefonleitung hat keinerlei Qualität.
+1_1_3_telefonie_qualitaet;Die Qualität der Telefongespräche ist gering.
+1_1_3_telefonie_qualitaet;Ich kann meinen Gegenüber nur ganz schlecht verstehen.
+1_1_3_telefonie_qualitaet;beim Telefonieren ist kaum etwas zu verstehen
+1_1_3_telefonie_qualitaet;Störgeräusche nach dem Abheben
+1_1_3_telefonie_qualitaet;Sprache ist unverständlich
+1_1_3_telefonie_qualitaet;Schlechte Tonqualität beim Telefoniern mittels Router
+1_1_3_telefonie_qualitaet;Sprachqualität
+1_1_4_telefonie_keine_abgehende_gespraeche;Ich kann nicht abgehend telefonieren.
+1_1_4_telefonie_keine_abgehende_gespraeche;Ich kann keine ausgehenden Gespräche führen.
+1_1_4_telefonie_keine_abgehende_gespraeche;Abgehend anrufen geht bei mir nicht.
+1_1_4_telefonie_keine_abgehende_gespraeche;Ich habe keine abgehenden Telefonverbindungen.
+1_1_4_telefonie_keine_abgehende_gespraeche;Abgehende Verbindungen funktionieren nicht. 
+1_1_4_telefonie_keine_abgehende_gespraeche;Ich habe Probleme mit abgehenden Telefonaten.
+1_1_4_telefonie_keine_abgehende_gespraeche;kann nicht raustelefonieren
+1_1_4_telefonie_keine_abgehende_gespraeche;ich kann niemanden anrufen
+1_1_4_telefonie_keine_abgehende_gespraeche;ich kann nirgends anrufen
+1_1_4_telefonie_keine_abgehende_gespraeche;kann den Telefonanschluss nicht erreichen
+1_1_4_telefonie_keine_abgehende_gespraeche;"wenn ich einen Anruf tätigen möchte, erscheint im Display ""Besetzt"""
+1_1_4_telefonie_keine_abgehende_gespraeche;Gegenstelle antwortet nicht
+1_1_4_telefonie_keine_abgehende_gespraeche;Kein Anruf nach draußen möglich
+1_1_4_telefonie_keine_abgehende_gespraeche;keine ausgehenden Gespräche möglich, nach Eingabe der Nummer immer Besetztzeichen
+1_1_4_telefonie_keine_abgehende_gespraeche;Nach dem Wählen erfolgt nur Besetzt-Zeichen
+1_1_4_telefonie_keine_abgehende_gespraeche;Das Telefon wählt aber es kommt kein Freizeichen
+1_1_4_telefonie_keine_abgehende_gespraeche;Anruf raus: Nummer wird gewählt - jedoch nur Besetzzeichen
+1_1_4_telefonie_keine_abgehende_gespraeche;Wenn ich telefonieren möchte ist dauerbesetzt
+1_1_4_telefonie_keine_abgehende_gespraeche;Wir können nicht raus telefonieren aber anrufe können wir empfangen
+1_1_4_telefonie_keine_abgehende_gespraeche;kann nicht abgehend telefonieren aber ankommend
+1_1_4_telefonie_keine_abgehende_gespraeche;ausgehende Telefonate funktionieren nicht, eingehende schon. 
+1_1_4_telefonie_keine_abgehende_gespraeche;Es können Telefonate angenommen werden, aber man kann nicht raus telefonieren.
+1_1_4_telefonie_keine_abgehende_gespraeche;kann nicht raus telefonieren anrufe gehen ein
+1_1_4_telefonie_keine_abgehende_gespraeche;Gespräche gehen nicht raus, kommen nur rein
+1_1_4_telefonie_keine_abgehende_gespraeche;Gespräche kommen nur rein, gehen nicht raus
+1_1_4_telefonie_keine_abgehende_gespraeche;Gespräche gehen nur rein, raus nicht
+1_1_4_telefonie_keine_abgehende_gespraeche;abgehend gestört
+1_1_4_telefonie_keine_abgehende_gespraeche;ich will abgehend nicht telefonieren
+1_2_internet_disambiguierung;Ich möchte eine internet störung melden.
+1_2_internet_disambiguierung;beim Internet
+1_2_internet_disambiguierung;Bei meinem Anschluss mit der Rufnummer 030/123456 ist das DSL gestört.
+1_2_internet_disambiguierung;es handelt sich ums Internet
+1_2_internet_disambiguierung;Ich habe eine Störung an meinem IP-Anschluss.
+1_2_internet_disambiguierung;ich möchte mein Internet in Ordnung gebracht haben
+1_2_internet_disambiguierung;Mein Router funktioniert nicht so richtig.
+1_2_internet_disambiguierung;Router funktioniert nicht ordentlich.
+1_2_internet_disambiguierung;Die Internetleitung scheint nicht einwandfrei zu funktionieren.
+1_2_internet_disambiguierung;Bringen Sie mein Internet wieder in Ordnung.
+1_2_internet_disambiguierung;Speedport Hybrid
+1_2_internet_disambiguierung;Speedport W724V
+1_2_internet_disambiguierung;Fritzbox
+1_2_1_internet_kein_internet;Ich kann nicht mehr surfen.
+1_2_1_internet_kein_internet;Ich komme nicht ins Internet.
+1_2_1_internet_kein_internet;mein W724 geht nicht online
+1_2_1_internet_kein_internet;Mein Router will nicht mehr.
+1_2_1_internet_kein_internet;WLAN Router funktioniert nicht mehr
+1_2_1_internet_kein_internet;Mein Internet funktioniert nicht
+1_2_1_internet_kein_internet;Ich habe kein Internet.
+1_2_1_internet_kein_internet;Ich bin offline.
+1_2_1_internet_kein_internet;Ich kann nicht online gehen.
+1_2_1_internet_kein_internet;Ich habe kein Internet.
+1_2_1_internet_kein_internet;Internet will nicht gehen
+1_2_1_internet_kein_internet;Meine Internetverbindung ging aus.
+1_2_1_internet_kein_internet;internetverbindung ist aus
+1_2_1_internet_kein_internet;bin nicht mit dem DSL verbunden
+1_2_1_internet_kein_internet;dsl keine verbindung
+1_2_1_internet_kein_internet;keine DSL-Verbindung
+1_2_1_internet_kein_internet;DSL Leitungsausfall
+1_2_1_internet_kein_internet;Internet ist ohne Funktion
+1_2_1_internet_kein_internet;Internet und TV Ausfall
+1_2_1_internet_kein_internet;Es geht kein Internet und kein tv
+1_2_1_internet_kein_internet;internet verschwindet einfach
+1_2_1_internet_kein_internet;Internet ist weg
+1_2_1_internet_kein_internet;Internet geht aus
+1_2_1_internet_kein_internet;DSL tot$I Router synchronisiert nicht
+1_2_1_internet_kein_internet;fehlendes DSL Signal
+1_2_1_internet_kein_internet;ich kann nicht surfen aber telefonieren
+1_2_1_internet_kein_internet;ich kann telefonieren aber nicht surfen
+1_2_1_internet_kein_internet;telefonieren kann ich aber nicht surfen
+1_2_1_internet_kein_internet;telefonie geht, internet ausgefallen
+1_2_1_internet_kein_internet;telefonie geht, internet geht nicht
+1_2_1_internet_kein_internet;telefonie geht, internet nicht
+1_2_1_internet_kein_internet;internet geht nicht, telefonie geht
+1_2_1_internet_kein_internet;internet geht nicht, telefonie schon
+1_2_1_internet_kein_internet;kann keine Internetseiten laden
+1_2_1_internet_kein_internet;Obwohl mit dem Router verbunden, kann man keine verbindung zum internet aufbauen
+1_2_1_internet_kein_internet;DSL nicht verfügbar
+1_2_1_internet_kein_internet;Router verliert die Verbindung
+1_2_1_internet_kein_internet;komme nicht ins Internet obwohl die Zugangsdaten korrekt sind
+1_2_1_internet_kein_internet;keine Internetverbindung trotz WLAN
+1_2_1_internet_kein_internet;Kein Internet und WLAN
+1_2_1_internet_kein_internet;Kein Internet über LAN und WLAN
+1_2_1_internet_kein_internet;kein surfen möglich
+1_2_1_internet_kein_internet;Meine Zugangsdaten sind nicht korrekt und ich komme deshalb nicht ins internet
+1_2_1_internet_kein_internet;ich mag das internet
+1_2_1_internet_kein_internet;ich möchte nicht ins internet
+1_2_1_internet_kein_internet;ich möchte kein internet
+1_2_1_internet_kein_internet;ich möchte nicht surfen
+1_2_1_internet_kein_internet;wir mögen kein Internet
+1_2_1_1_internet_powerline_ausgefallen;ich mag Powerline
+1_2_1_1_internet_powerline_ausgefallen;ich möchte kein PowerLAN
+1_2_1_1_internet_powerline_ausgefallen;Powerline ist ausgefallen
+1_2_1_1_internet_powerline_ausgefallen;PowerLAN geht nicht
+1_2_1_1_internet_powerline_ausgefallen;Internet über die Stromleitung funktioniert nicht
+1_2_1_2_internet_lan_ausgefallen;ich kann nicht ins LAN
+1_2_1_2_internet_lan_ausgefallen;LAN funktioniert nicht
+1_2_1_2_internet_lan_ausgefallen;ich mag LAN
+1_2_1_2_internet_lan_ausgefallen;ich möchte kein LAN
+1_2_1_3_internet_wlan_ausgefallen;ich kann nicht ins drahtlose LAN
+1_2_1_3_internet_wlan_ausgefallen;ich habe eine WLAN-Störung
+1_2_1_3_internet_wlan_ausgefallen;ich habe keine WLAN-Verbindung
+1_2_1_3_internet_wlan_ausgefallen;mein drahtloses Netzwerk geht nicht
+1_2_1_3_internet_wlan_ausgefallen;Ich habe Ärger mit meinem drahtlosen Internet
+1_2_1_3_internet_wlan_ausgefallen;WLAN auf Router geht nicht
+1_2_1_3_internet_wlan_ausgefallen;Der Router Speedport W921V baut keine WLan Verbindung auf
+1_2_1_3_internet_wlan_ausgefallen;router W 700v kein wlan zu hause, internet ja
+1_2_1_3_internet_wlan_ausgefallen;speedport w723v wlan ausfall
+1_2_1_3_internet_wlan_ausgefallen;ich kann keine WLAN-Verbindung zu meinem Speedport W723V Typ B aufbauen.
+1_2_1_3_internet_wlan_ausgefallen;kein Internet über WLAN
+1_2_1_3_internet_wlan_ausgefallen;kein WLAN verbindung nur LAN verbindung funktioniert
+1_2_1_3_internet_wlan_ausgefallen;keine WLAN-Verbindung
+1_2_1_3_internet_wlan_ausgefallen;ich möchte nicht ins WLAN
+1_2_1_3_internet_wlan_ausgefallen;ich möchte kein WLAN
+1_2_1_3_internet_wlan_ausgefallen;ich möchte keine WLAN -Verbindung
+1_2_1_3_internet_wlan_ausgefallen;ich mag drahtloses InternetTestcase:
+1_2_2_internet_langsam;Die Geschwindigkeit ist gedrosselt.
+1_2_2_internet_langsam;Downloads sind langsam.
+1_2_2_internet_langsam;Habe keine annehmbare Geschwindigkeit.
+1_2_2_internet_langsam;Das Tempo beim Download ist absurd.
+1_2_2_internet_langsam;Downloads gehen überhaupt nicht flott.
+1_2_2_internet_langsam;Das Internet ist lahm.
+1_2_2_internet_langsam;kaum Internetspeed
+1_2_2_internet_langsam;Das Surfen geht ganz schlecht.
+1_2_2_internet_langsam;Das Internet bei mir zuhause ist nicht gerade schnell.
+1_2_2_internet_langsam;Der Speed ist unterirdisch.
+1_2_2_internet_langsam;Ich habe keine Qualität beim surfen.
+1_2_2_internet_langsam;Mein Internet ist mir zu langsam.
+1_2_2_internet_langsam;keine Internet-Geschwindigkeit
+1_2_2_internet_langsam;Die Übertragungsraten sind bescheiden.
+1_2_2_internet_langsam;die Geschwindigkeit beträgt nur 1,5 MB
+1_2_2_internet_langsam;Geschwindigkeit unter 0.9 MByte
+1_2_2_internet_langsam;Geschwindigkeit nicht mehr als 3 MBit/s
+1_2_2_internet_langsam;Geschwindigkeit < 1000 KB
+1_2_2_internet_langsam;2M Download
+1_2_2_internet_langsam;habe nur 5mbit
+1_2_2_internet_langsam;16 Mbit nicht zu erreichen
+1_2_2_internet_langsam;32Mbit statt 50Mbit
+1_2_2_internet_langsam;Unsere Internetverbindung liegt aktuell bei 1 MB pro Sekunde
+1_2_2_internet_langsam;Unser DSL 6000 Anschluss stellt uns nur 2000-4000kBit/s zur Verfügung
+1_2_2_internet_langsam;Internetleitung unter der versprochenen Geschwindigkeit
+1_2_2_internet_langsam;Datenübertragungsrate geringer als VDSL
+1_2_2_internet_langsam;Downstream gering
+1_2_2_internet_langsam;Upstream niedrig
+1_2_2_internet_langsam;Datenrate entspricht nicht dem zugesagten Umfang
+1_2_2_internet_langsam;katastrophale Internetverbindung
+1_2_2_internet_langsam;Breitbandgeschwindigkeit kommt nicht an
+1_2_2_internet_langsam;erreiche nicht meinen gebuchten Datendurchsatz
+1_2_2_internet_langsam;kein iptv möglich downstream zu langsam
+1_2_2_internet_langsam;DSL Anschluss zu langsam, TV Bilder frieren ein
+1_2_2_internet_langsam;Seitenaufbau langsam
+1_2_2_internet_langsam;Internetverbindung unter 3000
+1_2_2_internet_langsam;Ich habe eine 50K Leitung aber es kommen grade nur 10K an
+1_2_2_internet_langsam;habe weniger als vdsl
+1_2_2_internet_langsam;ADSL statt VDSL
+1_2_2_internet_langsam;Amazon Prime geht nicht wegen zuwenig Bandbreite
+1_2_2_internet_langsam;Bandbreite ist nicht ausreichend
+1_2_2_internet_langsam;DSL Geschwindigkeit bricht regelmäßig ein
+1_2_2_internet_langsam;Speedport bringt nicht die gewünschte Leistung
+1_2_2_internet_langsam;Die gebuchte DSL Geschwindigkeit wird nicht geliefert
+1_2_2_internet_langsam;Schlechtes Wlan und schwache Internetverbindung
+1_2_2_internet_langsam;Internet und WLAN langsam
+1_2_2_internet_langsam;Geschwindigkeitsproblem
+1_2_2_1_internet_wlan_schlecht;Die WLAN-Verbindung bei mir bricht ab.
+1_2_2_1_internet_wlan_schlecht;Mein WLAN unterbricht ständig. 
+1_2_2_1_internet_wlan_schlecht;Die Wireless-LAN-Verbindung bricht immer wieder zusammen.
+1_2_2_1_internet_wlan_schlecht;WLAN zu langsam
+1_2_2_1_internet_wlan_schlecht;Internet über Wlan zu langsam
+1_2_2_1_internet_wlan_schlecht;WLAN schwankend
+1_2_3_internet_abbrueche;Es kommt beim surfen ständig zu Abbrüchen.
+1_2_3_internet_abbrueche;Die DSL-Verbindung bei mir reißt ab.
+1_2_3_internet_abbrueche;Mein Internet unterbricht ständig. 
+1_2_3_internet_abbrueche;Die Internetverbindung bricht immer wieder zusammen.
+1_2_3_internet_abbrueche;Internetverbindung wird immer wieder getrennt
+1_2_3_internet_abbrueche;DSL Leitung fällt alle 2 Minuten aus
+1_2_3_internet_abbrueche;Intenetverbindung geht aus und an
+1_2_3_internet_abbrueche;Internetabstürze
+1_2_3_internet_abbrueche;Internet stürzt immer wieder ab
+1_2_3_internet_abbrueche;Internetverbindung immer wieder weg
+1_2_3_internet_abbrueche;Regelmäßiger Verbindungsstörung zum Internet
+1_2_3_internet_abbrueche;Häufiger verlust der Internetverbindung.
+1_2_3_internet_abbrueche;Internet verliert ständig die Verbindung
+1_2_3_internet_abbrueche;Internetverbindung wird ständig unterbrochen, sowohl WLAN als auch LAN
+1_2_3_internet_abbrueche;verbindungsabbrüche bei entertain , telefon und internet
+1_2_3_internet_abbrueche;Abbrüche Internet und iptv
+1_2_3_internet_abbrueche;Täglich mehrmals Absturz des Internets
+1_2_3_internet_abbrueche;Internet schaltet ab und zu ab
+1_2_3_internet_abbrueche;Internet funktioniert nur zeitweise
+1_2_3_internet_abbrueche;Internet nur zeitweise verfügbar
+1_2_3_internet_abbrueche;Internet und WLAN Abbrüche
+1_2_3_internet_abbrueche;Internetabbrüche
+Komplettausfall.vage-1_3_1301;Mein Anschluss ist komplett ausgefallen.
+Komplettausfall.vage-1_3_1301;Ich habe einen Komplettausfall zu verzeichnen.
+Komplettausfall.vage-1_3_1301;Mein Anschluss ist völlig im Eimer.
+Komplettausfall.vage-1_3_1301;es geht gar nichts.
+Komplettausfall.vage-1_3_1301;Bei mir funktioniert nichts mehr.
+Komplettausfall.vage-1_3_1301;Es tut sich überhaupt nichts.
+Komplettausfall.vage-1_3_1301;kein Verbindungsaufbau
+Komplettausfall.eindeutig-Komplettausfall#2001;ich kann nicht telefonieren und nicht surfen.
+Komplettausfall.eindeutig-Komplettausfall#2001;Ich kann nicht telefonieren und surfen.
+Komplettausfall.eindeutig-Komplettausfall#2001;ich kann nicht surfen und nicht telefonieren
+Komplettausfall.eindeutig-Komplettausfall#2001;ich kann nicht surfen und telefonieren
+Komplettausfall.eindeutig-Komplettausfall#2001;kann weder telefonieren noch surfen
+Komplettausfall.eindeutig-Komplettausfall#2001;Ich kann nicht telefonieren und auch nicht ins Internet gehen.
+Komplettausfall.eindeutig-Komplettausfall#2001;habe weder Telefon noch Internet, auch kein Entertain
+Komplettausfall.eindeutig-Komplettausfall#2001;weder internet noch telefonie funktionieren
+Komplettausfall.eindeutig-Komplettausfall#2001;Es geht weder das Telefon noch Entertain
+Komplettausfall.eindeutig-Komplettausfall#2001;Bei mir sind telefon und internet gestört.
+Komplettausfall.eindeutig-Komplettausfall#2001;Festnetz Störung inklusive Entertain
+Komplettausfall.eindeutig-Komplettausfall#2001;Totalausfall bei Telefon, DSL und Entertain 
+Komplettausfall.eindeutig-Komplettausfall#2001;kein festnetz kein internet kein entertain
+Komplettausfall.eindeutig-Komplettausfall#2001;Telefon und WLAN funktionieren nicht
+Komplettausfall.eindeutig-Komplettausfall#2001;Telefonie, Internet ausgefallen
+Komplettausfall.eindeutig-Komplettausfall#2001;telefonie geht nicht, internet geht nicht
+Komplettausfall.eindeutig-Komplettausfall#2001;telefonie, internet geht nicht
+Komplettausfall.eindeutig-Komplettausfall#2001;internet geht nicht, telefonie geht nicht
+Komplettausfall.eindeutig-Komplettausfall#2001;internet, telefonie geht nicht
+Komplettausfall.eindeutig-Komplettausfall#2001;internet, telefonie ausgefallen
+Komplettausfall.eindeutig-Komplettausfall#2001;Telefonie ausgefallen, Internet Ausfall
+Komplettausfall.eindeutig-Komplettausfall#2001;keine Anrufe und Internet möglich
+Komplettausfall.eindeutig-Komplettausfall#2001;alles ist offline
+Komplettausfall.eindeutig-Komplettausfall#2001;alles defekt
+Entertain.Disambiguierung-1_5_1001;Entertain
+Entertain.Disambiguierung-1_5_1001;Entertain Störung
+Entertain.Disambiguierung-1_5_1001;Probleme mit Entertain
+Entertain.Disambiguierung-1_5_1001;TV gestört
+Entertain.Disambiguierung-1_5_1001;HDTV
+Entertain.Kein_Empfang-1_5_1_1001;Kein Entertain Empfang
+Entertain.Kein_Empfang-1_5_1_1001;mein Fernseher bleibt schwarz
+Entertain.Kein_Empfang-1_5_1_1001;das Bild bleibt schwarz 
+Entertain.Kein_Empfang-1_5_1_1001;kein Fernsehempfang
+Entertain.Kein_Empfang-1_5_1_1001;kein tv empfang über entertain
+Entertain.Kein_Empfang-1_5_1_1001;Unser TV geht nicht
+Entertain.Kein_Empfang-1_5_1_1001;Entertain geht nicht 
+Entertain.Kein_Empfang-1_5_1_1001;Entertain Ausfälle
+Entertain.Kein_Empfang-1_5_1_1001;Entertain Resiver hat keine verbindung
+Entertain.Kein_Empfang-1_5_1_1001;Mein Fernsehen geht nicht.
+Entertain.Kein_Empfang-1_5_1_1001;kein Bild
+Entertain.Einzelne_Sender_gestört-1_5_1_1_1001;Kann Basketball nicht sehen
+Entertain.Einzelne_Sender_gestört-1_5_1_1_1001;meine big tv und Eishockey Pakete sind nicht freigeschaltet
+Entertain.Alle_Sender_gestört-1_5_1_2_1001;Kann gar keine Sender über Entertain empfangen
+Entertain.Alle_Sender_gestört-1_5_1_2_1001;Entertain startet nicht
+Entertain.Alle_Sender_gestört-1_5_1_2_1001;ich sehe nichts
+Entertain.Bild_Ton_Störung-1_5_2_1001;mein Fernsehbild ist schlecht
+Entertain.Bild_Ton_Störung-1_5_2_1001;das Fernsehbild bleibt stehen 
+Entertain.Bild_Ton_Störung-1_5_2_1001;tonprobleme beim fernsehen
+Entertain.Bild_Ton_Störung-1_5_2_1001;beim Fernsehen ist kaum etwas zu verstehen
+Entertain.Bild_Ton_Störung-1_5_2_1001;Tonstörung
+Entertain.Bild_Ton_Störung-1_5_2_1001;mein Fernsehbild bleibt immer hängen
+Entertain.Bild_Ton_Störung-1_5_2_1001;Entertain hängt sich auf
+Entertain.Bild_Ton_Störung-1_5_2_1001;entertain läuft nicht richtig
+Entertain.Bild_Ton_Störung-1_5_2_1001;das Bild friert ein
+Entertain.Bild_Ton_Störung-1_5_2_1001;Pixelfehler
+Entertain.Bild_Ton_Störung-1_5_2_1001;Bildstörungen
+Entertain.MR_Störung-1_5_3_1001;Entertain.Bild_Ton_Störung-1_5_2_1001
+Entertain.MR_Reboots-1_5_3_1_1210;Mein Media Receiver startet ständig neu
+Entertain.MR_Reboots-1_5_3_1_1210;Mediareceiver stürzt ab
+Entertain.MR_Reboots-1_5_3_1_1210;Reboots am Media Receiver
+Entertain.MR_Langsam_Umschalten-1_5_3_1003;Das Umschalten der Sender dauert zu lange
+Entertain.MR_Defekt-1_5_3_3_1006;Mein Media Receiver startet nicht mehrKontaktoptionen
+Entertain.RC_Problem-1_5_4_1001;Meine Fernbedienung funktioniert nicht mehr
+Entertain.RC_Problem-1_5_4_1001;Fernbedienung blinkt
+Entertain.RC_Problem-1_5_4_1001;Fernbedienung Fehler
+Entertain.MR_ErrorCode-1_5_5_1002;Ich sehe die Fehlermeldung
+Abbrüche.unspezifisch-1_7_1701;meine Leitung bricht zusammen
+Abbrüche.unspezifisch-1_7_1701;Plötzlich bricht die Verbindung zusammen.
+Abbrüche.unspezifisch-1_7_1701;mein Anschluß fällt immer aus
+Abbrüche.unspezifisch-1_7_1701;Es kommt immer wieder zu Abbrüchen.
+Abbrüche.unspezifisch-1_7_1701;Ich plage mich hier schon seit Tagen mit Unterbrechungen rum.
+Abbrüche.unspezifisch-1_7_1701;Anschluss fällt ständig aus
+Abbrüche.unspezifisch-1_7_1701;Leitung instabil
+Abbrüche.unspezifisch-1_7_1701;Leitung unterbricht
+Qualität.unspezifisch-1_8_1801;Die Qualität ist schlechter geworden.
+Qualität.unspezifisch-1_8_1801;Die Qualität ist enttäuschend.
+Qualität.unspezifisch-1_8_1801;Die Leitungsqualität ist nicht in Ordnung
+Qualität.unspezifisch-1_8_1801;Ich habe ein Qualitätsproblem.
+Qualität.unspezifisch-1_8_1801;Problem mit der Qualität
+Qualität.unspezifisch-1_8_1801;Die Anschlussqualität bereitet mir Probleme.
+Qualität.unspezifisch-1_8_1801;Hab ne miserable Leitung hier. 
+Qualität.unspezifisch-1_8_1801;Ich stelle fest, die Qualität ist beeinträchtigt.
+Qualität.unspezifisch-1_8_1801;Die Leitung ist wohl mal besser gewesen.
+Qualität.unspezifisch-1_8_1801;Der Anschluss iss sowas von mies.
+Qualität.unspezifisch-1_8_1801;Ich hatte schon eine bessere und zuverlässigere Verbindung.
+Qualität.unspezifisch-1_8_1801;Mein Anschluss ist unzuverlässig.
+Qualität.unspezifisch-1_8_1801;Mein Anschluss ist taugt gar nichts.
+Qualität.unspezifisch-1_8_1801;Meine Leitung ist total schlecht.
+Qualität.unspezifisch-1_8_1801;Die Leitungsqualität hier ist unter aller Kanone.

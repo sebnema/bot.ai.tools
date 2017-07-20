@@ -1,0 +1,301 @@
+1	Conservation Award	What is the objective of ContosoInc conservation award?
+2	Conservation Award	What's conservation award?
+3	Conservation Award	Can you explain what the ContosoInc conservation award is?
+4	Conservation Award	What do you know about the conservation award?
+5	Consumer Award	What is the objective of ContosoInc consumer award?
+6	Consumer Award	What's a consumer award?
+7	Consumer Award	Can you tell me what the consumer award is?
+8	Consumer Award	What do you know about ContosoInc Consumer Award?
+9	Green Bill 	What is a Green Bill?
+10	Green Bill 	What's green bill?
+11	Green Bill 	Can you tell me about green bill?
+12	Green Bill 	Is green bill an electronic version of the paper bill?
+13	Billing Cycle	I would like to inquire about the period covered in ContosoInc Bill?
+14	Billing Cycle	What period is covered in billing cycle?
+15	Billing Cycle	What's the billing cycle?
+16	Billing Cycle	What period is covered in ContosoInc bill?
+17	Billing Cycle	How long is the billing cycle?
+18	Contract Account Number	What a Contract Account Number is and where to find it?
+19	Contract Account Number	What's the contract number ?
+20	Contract Account Number	Where can I find my contract number?
+21	Contract Account Number	Where is contract number located?
+22	Contract Account Number	Can you help me find my contract number?
+23	Contract Account Number	Can you help me identify my contract account number?
+24	Contract Account Number	What is account number?
+25	Service Activation Time (Move-In)	How long does it take to activate ContosoInc services (electricity and water supply) after registration and payment of security deposit?
+26	Service Activation Time (Move-In)	How long before my service is activated?
+27	Service Activation Time (Move-In)	When would my water service be activated?
+28	Service Activation Time (Move-In)	When would you activate my electricity service?
+29	Service Activation Time (Move-In)	When will my electricity be activated?
+30	Service Activation Time (Move-In)	When is my water supply activated?
+31	Service Activation Time (Move-In)	Why my electricity has not been connected?
+32	Service Activation Time (Move-In)	How long it take to do move in?
+33	Service Activation Time (Move-In)	How long the move-in takes place?
+34	Pay ContosoInc bill via mobile	Can I pay my ContosoInc Bill through my mobile?
+35	Pay ContosoInc bill via mobile	Do you have a mobile pay option?
+36	Pay ContosoInc bill via mobile	Can I pay my bill through my cell phone?
+37	Pay ContosoInc bill via mobile	Dose payment can be through  mobile app options?
+38	Pay ContosoInc bill via mobile	Does ContosoInc have a mobile pay ?
+39	mPay Register	How do I register for the mPay service?
+40	mPay Register	Can you tell me how to register for the mobile pay service ?
+41	mPay Register	How can I get the mPay service
+42	mPay Register	What's the link to the mPay?
+43	mPay Transaction	How long does it take for the payment made through mPay service to reflect in my ContosoInc account?
+44	mPay Transaction	How long before my mPay payment is reflected on my account?
+45	mPay Transaction	Will my mPay payment show immediately on the account?
+46	mPay Transaction	How long would it take to process my payment through mPay?
+47	Final Bill Request-move out 	Can I request for a Final Bill through ContosoInc website?
+48	Final Bill Request-move out 	Do you have the final bill request online?
+49	Final Bill Request-move out 	Can I request a final bill on the ContosoInc website?
+50	Final Bill Request-move out 	Do you know if a final bill can be requested online?
+51	Final Bill Request-move out 	Can I request for a Final Bill through ContosoInc Mobile App?
+52	Final Bill Request-move out 	Can I request  move out through ContosoInc Mobile App?
+53	Final Bill Request-move out 	Can I request  move out through ContosoInc website?
+54	Move-In Activation of Supply	What is new activation of supply?
+55	Move-In Activation of Supply	What is move in service?
+56	Move-In Activation of Supply Process 	How to do Move in?
+57	Move-In Activation of Supply Process 	How to activate supply?
+58	Move-In Activation of Supply Process 	How to request supply of water and electricity?
+59	Move-In Activation of Supply Process 	How to submit for move in?
+60	Move-In Activation of Supply Process 	What is the procedure to apply for Move In?
+61	Channels providing move in service 	What are channels providing move in service ?
+62	Final Bill Settlement	Can I authorize someone to settle the Final Bill on my behalf?
+63	Final Bill Settlement	Can my friend settle my final bill?
+64	Final Bill Settlement	What do I have to do to authorize someone to finalize my final bill on my behalf?
+65	Final Bill Settlement	How to authorize a friend to settle my final bill?
+66	Final Bill Settlement	I will be away from home, can I authorize someone to settle my Final Bill?
+67	Final Bill Settlement	Can I authorize a friend to settle my final bill?
+68	Final Bill Settlement	Can I let my  friend to get my final bill?
+69	Final Bill Settlement	Can I let my colleague to get my final bill?
+70	Final Bill Settlement	Can authorize someone else to settle my final bill 
+71	Final Bill Settlement	What is the procedure to authorize somebody to settle my final bill 
+72	Final Bill Availability	How long does it take for a Final Bill to be ready? 
+73	Final Bill Availability	when will my final bill be available?
+74	Final Bill Availability	When my final bill will be ready?
+75	Final Bill Availability	How long does it take for the Final Bill to be available? 
+76	Final Bill Availability	Within how many days the final bill will be ready ?
+77	Final Bill Availability	Within how many days the final bill will be available?
+78	Final Bill Availability	How many days the final bill will be available?
+79	Final Bill Availability	What is the duration for the final bill to be ready ?
+80	Final Bill Policy	I want to settle my final bill but I do not want the utilities to be disconnected?
+81	Final Bill Policy	Would a final bill request require service disconnection?
+82	Final Bill Policy	Will my utility service be interrupted if I requested a final bill?
+83	Final Bill Policy	Does a final request bill require service disconnection?
+84	Final Bill Policy	Can the supply remain active upon requesting a final bill?
+85	Final Bill Policy	Any chance I can have my supplies remain active when a final bill has been requested?
+86	Final Bill Policy	Can I get the final bill without disconnection
+87	Final Bill Policy	Can I issue final bill without supply disconnection
+88	Final Bill Policy	Is the supply remain active during requesting the final bill?
+89	High Bill	The Bill that I have received is too high and I want my meter to be inspected? 
+90	High Bill	Why is my bill too high ?
+91	High Bill	My bill is high, can you inspect my meter?
+92	High Bill	will my meter be inspected since my bill is too high?
+93	High Bill	what can I do if my bill is higher this period?
+94	High Bill	Why is my bill too high this month?
+95	High Bill	I didn’t consume a lot why is my bill still too high 
+96	High Bill	what should I do if my consumption is high 
+97	High Bill	I want to complain about my high consumption bill 
+98	Track Complaint 	How can I track my complaints?
+99	Tariff Calculation method	 I would like to know more about the Tariff Calculation method?
+100	Tariff Calculation method	can you explain the Tariff calculation method?
+101	Tariff Calculation method	where can I find information about Tariff calculation?
+102	Tariff Calculation method	Can you help me understand the Tariff Calculation method?
+103	Tariff Calculation method	Can I know more information about Tariff calculation?
+104	Tariff Calculation method	how can I calculate my consumption?
+105	Tariff Calculation method	What is the Slab Tariff?
+106	Tariff unit 	What are the units of measurements for slab tariff?
+107	Address Change Fees	Are there any charges for updating my PO Box ? 
+108	Address Change Fees	How much I need to pay to change my PO Box ?
+109	Address Change Fees	I need to change my PO Box number, are there any charges? 
+110	Address Change Fees	What is the charge for changing  PO box ?
+111	Address Change Fees	Should I have to pay to change my PO box ?
+112	Address Change Fees	What is the address change  fee   ?
+113	Address Change Fees	what is the amount I have to pay to change my PO box r?
+114	Address Change Request	How long does it take for process of address change request?
+115	Address Change Request	when will my address change request be processed?
+116	Address Change Request	how long before my address change is in effect?  
+117	Address Change Request	how long it will take to process  an online address change  ?
+118	Address Change Request	made an address change through ContosoInc smart app, will that be effective immediately?
+119	Address Change Request	what is the period of processing address change 
+120	Account holder Name Change	My name on the Bill has incorrect spelling and I wish to get it corrected, what should I do?
+121	Account holder Name Change	how can I correct misspelled name on my bill?
+122	Account holder Name Change	what to do in order to correct the spelling of my name on the bill?
+123	Account holder Name Change	I need to correct my name on the bill, what should I do?
+124	Account holder Name Change	is it possible to correct my name in the bill?
+125	ContosoInc Bill Inquiry	Can I inquire about the payable amounts of my ContosoInc Bill through ContosoInc’s website without registration? 
+126	ContosoInc Bill Inquiry	can I enquire about the due amount of my bill on the ContosoInc website?
+127	ContosoInc Bill Inquiry	Do I have to be an online registered user to check the payable amount on my bill?
+128	ContosoInc Bill Inquiry	Any chance I can see the ContosoInc payable amount of my bill without registration?
+129	ContosoInc Bill Inquiry	may I know my ContosoInc bill amount without registration?
+130	Online Registration	How can I register for ContosoInc Online Services? 
+131	Online Registration	Can you help me to register online?
+132	Online Registration	can you walk me through the ContosoInc online registration?
+133	Online Registration	what steps do I follow to enroll into the online services
+134	Online Registration	How I can register online ?
+135	Online Registration	through which service I can register online ?
+136	Online Payment Limit	Is there any limit to payments made through ContosoInc online account?
+137	Online Payment Limit	what's the limit when paying my bill online?
+138	Online Payment Limit	if I need to pay my bill online, is there a limit?
+139	Online Payment Limit	what is the maximum payment amount through ContosoInc online?
+140	 Clearance Certificate	Where can I obtain a  Clearance Certificate?
+141	 Clearance Certificate	where to request a clearance certificate?
+142	 Clearance Certificate	 where I can get the a  clearance certificate ?
+143	 Clearance Certificate	How to obtain  a Clearance Certificate?
+144	 Clearance Certificate	How can I get  a Clearance Certificate
+145	 Clearance Certificate	Can you help me request a clearance certificate?
+146	 Clearance Certificate	How can I request a  Clearance Certificate?
+147	 Clearance Certificate	How can I apply for a clearance certificate?
+148	Clearance Certificate Request	what's the prerequisites for obtaining a clearance cert.?
+149	Clearance Certificate Request	Are there any pre-perquisites for obtaining a  Clearance Certificate?
+150	Clearance Certificate Request	are there any prerequisites when requesting a clearance certificate
+151	Clearance Certificate Request	Are there any pre-requisites for requesting a Clearance Certificate ?
+152	Clearance Certification Fee	What is the fee for the Clearance Certificate request?
+153	Clearance Certification Fee	do you charge fee for clearance certificate?
+154	Clearance Certification Fee	Do I need to pay Clearance Certificate Fee?
+155	Clearance Certification Fee	need to request ContosoInc clearance certificate, do you charge a fee?
+156	Clearance Certification Fee	Is the Clearance Certificate is free of charge?
+157	Previous Bill Request	Can I get my previous billing statements through Fax/Email?
+158	Previous Bill Request	can I obtain copies of previous statements
+159	Previous Bill Request	how can I obtain past billing statements?
+160	Previous Bill Request	Can you email me a copy of previous bill?
+161	Previous Bill Request	need a previous billing statement, can you fax or email one?
+162	Previous Bill Request	can you fax me a copy of previous bills?
+163	Previous Bill Request	would you fax me a previous statement?
+164	Previous Bill Request	How can I get my previous bill through IVR?
+165	view online billing history 	Can I view my old premises billing history through my online profile ? 
+166	view online billing history 	How can I view my billing and payment history online ?
+167	Previous Billing Period	How many monthly billing statements I could obtain through the IVR Service?
+168	  Housing Fee	Why Dubai Municipality fee is being charged in my ContosoInc Bill? 
+169	  Housing Fee	I see a Dubai Municipality fee on my bill, why?
+170	  Housing Fee	why Dubai municipality fee is showing on my bill?
+171	  Housing Fee	Why am I being charged a Dubai municipality fee on my ContosoInc billing statement?
+172	  Housing Fee	What is housing fee?
+173	Etisalat Machine	If I pay through Etisalat Machine, how long will it take for the payment to reflect in my  ContosoInc account?
+174	Etisalat Machine	how long before my Etisalat machine payment is reflected on my account?
+175	Etisalat Machine	How long does it take to process a payment paid through Etisalat machine?
+176	Etisalat Machine	Will take long before my payment is reflected on my account when paid through Etisalat machine?
+177	District Cooling Charges	Why are there District Cooling Charges in my ContosoInc Bill?
+178	District Cooling Charges	why is district cooling charges showing on my ContosoInc bill?
+179	District Cooling Charges	I see a District Cooling charges on my statement, why is that?
+180	District Cooling Charges	why am I being charged for district cooling on my ContosoInc bill?
+181	District Cooling Charges	What is district cooling fee?
+182	register rented property	I have recently rented a property, what are the required documents to register with ContosoInc?
+183	register rented property	what documents are required to register a rented property at ContosoInc?
+184	register rented property	what's required for registering a rental property?
+185	register rented property	Any documents required to register rented property with ContosoInc?
+186	register rented property	need to register a rented property, can you tell me what documents are required?
+187	register rented property	what documents are needed for rented property registration?
+188	payment methods	where I can pay my bill?
+189	payment methods	 what are the Methods of Payment for paying ContosoInc bills ?
+190	payment methods	 can I pay my bill through Patrol station?
+191	ContosoInc Smart Application	Can I pay through smart app?
+192	ContosoInc Smart Application	Do you offer payment option through a smart application?
+193	ContosoInc Smart Application	Do I need to be a registered user to pay through ContosoInc smart app?
+194	ContosoInc Smart Application	Can registered customers pay through smart app?
+195	Security Deposit (SD)	How much is the security deposit?
+196	Security Deposit (SD)	How to calculate the security deposit amount?
+197	Security Deposit (SD)	What is the amount for security deposit?
+198	ContosoInc Customer Happiness Centers locations and working hours	What is ContosoInc's working hours?
+199	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours in Customer Happiness Centres branch ?
+200	ContosoInc Customer Happiness Centers locations and working hours	when can I visit ContosoInc offices
+201	ContosoInc Customer Happiness Centers locations and working hours	What are the timings for ContosoInc branches?
+202	ContosoInc Customer Happiness Centers locations and working hours	What is ContosoInc's working hours for Head Office Garoud Branch) ?
+203	ContosoInc Customer Happiness Centers locations and working hours	What are working hours for Al Hudaiba Customer Happiness Centre ?
+204	ContosoInc Customer Happiness Centers locations and working hours	What are working hours for Burj Nahar Customer Happiness Centre ?
+205	ContosoInc Customer Happiness Centers locations and working hours	What are working hours for Customer Happiness Centre at Dubai Municipality - Al Manara Centre ?
+206	ContosoInc Customer Happiness Centers locations and working hours	What is ContosoInc's working hours for Customer Happiness Centre at Dubai Municipality – Al Twar Centre ?
+207	ContosoInc Customer Happiness Centers locations and working hours	What is ContosoInc's working hours for Customer Happiness Centre at General Directorate of Residency and Foreigners Affairs - Head Quarter ?
+208	ContosoInc Customer Happiness Centers locations and working hours	What is ContosoInc's working hours for Customer Happiness Centre at General Directorate of Residency and Foreigners Affairs - Jebel Ali ?
+209	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Umm Ramool Customer Happiness Centre ?
+210	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Ayal Nasir Customer Happiness Centre ?
+211	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Al Wasl Customer Happiness Centre ?
+212	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Discovery Gardens Customer Happiness Centre ?
+213	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Jebel Ali Industrial Area Customer Happiness Centre ?
+214	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Customer Happiness Centre - Al Quoz Sustainable Building ?
+215	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Hatta Customer Happiness Centre ?
+216	ContosoInc Customer Happiness Centers locations and working hours	What are the working hours for Al Hamriya Customer Happiness Centre   ?
+217	ContosoInc Customer Happiness Centers locations and working hours	Where  are the locations of ContosoInc Customer Happiness Centres
+218	ContosoInc Customer Happiness Centers locations and working hours	Where can I find ContosoInc  Customer Happiness Centres?
+219	Saturady branches 	Which of ContosoInc Customer Happiness Centres branch open on Saturday?
+220	Sign Language (Ash'ir Service)	What is Ash'ir service?  
+221	Sign Language (Ash'ir Service)	Does ContosoInc support sign language?
+222	Sign Language (Ash'ir Service)	Does ContosoInc have sign language facility?
+223	Sign Language (Ash'ir Service)	does ContosoInc offers sign language service?
+224	Sign Language (Ash'ir Service)	can special needs customers communicate with ContosoInc customer service?
+225	Sign Language (Ash'ir Service)	What are the services offered for people with disabilities?
+226	video chat 	What is Hayak service?  
+227	Shams Dubai Program	What is Shams Dubai Program?
+228	Shams Dubai Program	What is ContosoInc's Solar penel initiatives?
+229	Shams Dubai Program	What are the programs related to Solar penel?
+230	Solar panels	From where I can get the solar panels? 
+231	Solar panels	Where can I find solar cells? 
+232	Solar panels	Where can I find solar panels?
+233	Account Type	What are the  Account Type?
+234	Account Type	What types of accounts available in ContosoInc?
+235	Business Partner	What is a Business Partner?
+236	Business Partner	What is BP mean ?
+237	Premise Number	What is a Premise Number?
+238	Premise Type	What is a Premise Type?
+239	Collective Account	What is a Collective Account?
+240	Sewage Fee	What is Sewage / Sewerage  Fee? 
+241	Sewage Fee	How is Sewage/Sewerage  Fee calculated?
+242	Other Services mean	what do other services mean in ContosoInc bill ?
+243	Other Services mean	what do other services include in ContosoInc bill ?
+244	Total Amount in Monthly Bill	What is Current month total in ContosoInc bill ?
+245	Total Amount in Monthly Bill	What is the monthly bill include ?
+246	Bill Adjustments	What does Adjustments mean in ContosoInc bill ?
+247	Bill Adjustments	What is Bill Adjustment?
+248	Multiplication Factor (MF)	what is multiplication factor, MF?
+249	Sub meter consumption	What is Sub meter consumption?
+250	Fuel Surcharge calculated	How is Fuel Surcharge calculated?
+251	Fuel Surcharge calculated	What is Fuel Surcharge?
+252	consumption Imperial Gallons	What is Imperial Gallons?
+253	electric consumption during peak hours	How can I reduce my electric consumption during peak hours ?
+254	water consumption  tips during peak hours	What are the additional measures to be taken for water  consumption during peak hours ?
+255	Electrical Vehicle Charging Station (Green Charger)	Can everyone use electric vehicle charge points? 
+256	Electrical Vehicle Charging Station (Green Charger)	Where can I find EV Charging Stations?
+257	Electrical Vehicle Charging Station (Green Charger)	Where are Electric Vehicle Stations are located?
+258	Cooling Conservation Tips	can you help me with cooling conservation?
+259	Cooling Conservation Tips	What are the conservation tips for saving energy from air conditioner?
+260	Cooling Conservation Tips	What are  ventellation practises to be followed  to conserve energy from  air conditioner ?
+261	Cooling Conservation Tips	any cooling conservation tips?
+262	Cooling Conservation Tips	do you have any cooling conservation tip?
+263	Cooling Conservation Tips	How can I reduce my cooling consumption?
+264	Light Energy Saving 	What are the important additional  measures to be taken for saving energy from air conditioner?
+265	Kitchen & Bathroom Saving Energy 	What are the important measures  to be taken  in kitchen and bathroom for saving energy loss from air conditioner?
+266	Appliance Conservation Tips	any appliances conservation tips?
+267	Appliance Conservation Tips	can you share appliances conservation tips?
+268	Appliance Conservation Tips	do you have major appliances conservation tips?
+269	Appliance Conservation Tips	How do I reduce the consumption of my appliance at home?
+270	cooking Appliance Conservation Tips	What are the conservation tips for energy savings from cooking appliances?
+271	oven Conservation Tips	What are the conservation tips for energy savings from ovens?
+272	Refrigeration Conservation Tips	What are the conservation tips for energy savings from Refrigeration and Freezing equipment’s?
+273	Lighting Conservation Tips 	need lighting conservation tips ?
+274	Lighting Conservation Tips 	any lighting conservation tips?
+275	Lighting Conservation Tips 	can you help with a lighting conservation?
+276	Lighting Conservation Tips 	How do I reduce the consumption of my lights at home?
+277	Lighting Type for Conservation Tips 	What are the types of bulbs or lamps , which  I can use for lighting conservation ?
+278	Water  Conservation Tips - General	do you have water conservation tip?
+279	Water  Conservation Tips - General	can you advise on shower and faucet conservation?
+280	Water  Conservation Tips - General	can you help me with faucets or shower conservation?
+281	Water  Conservation Tips - General	How do I reduce the consumption of my water bill through shower conservation?
+282	Water  Conservation Tips - Shower	Can you provide me with water conservation tips while using shower?
+283	Kitchen Water  Conservation Tips	Can you provide me with water conservation tips for kitchen?
+284	Water Conservation Tips - Kitchen Garbage	Can you provide me with water conservation tips while handling garbage’s in kitchen?
+285	Shower Conservation Tips	What accounts for major usage of water at home ?
+286	Toilets Conservation Tips	What are  toilet conservation tips?
+287	Toilets Conservation Tips	are there toilets conservation tips?
+288	low flow Toilets Conservation Tips	What are the toilet conservation tips for low flow toilet?
+289	water tank Conservation Tips	Is there any toilet conservation tips which can be done in water tanks ?
+290	water usage in toilets	What is the generic average water usage in toilets?
+291	Irrigation  Conservation Tips	do you have irrigation conservation tips?
+292	Irrigation  Conservation Tips	can you advise on irrigation conservation?
+293	General Watering conservation tips	What are General Watering conservation tips ?
+294	 Sprinklers/Sprinkler SystemsConservation Tips	What are conservation tips for Sprinklers/Sprinkler Systems?
+295	Drip Irrigation  Conservation Tips	What are the conservation tips for Drip Irrigation?
+296	 watering systems affect conservation  	 What are the general factors which affect conservation from watering systems ?
+297	Landscaping Conservation Tips 	 What are  landscaping conservation tips?
+298	best period Landscaping Conservation Tips 	What is the best period to do the landscaping for best conservation of water ?
+299	Outdoor Conservation Tips	can you help me with out door conservation tips?
+300	Outdoor Conservation Tips	What is  out door conservation tips?
+301	spa or pool Conservation Tips	How can I conserve water from spa or pool ?
