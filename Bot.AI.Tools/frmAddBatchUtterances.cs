@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Data;
 using System.IO;
+using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
@@ -91,13 +92,14 @@ namespace Bot.AI.Tools
         }
 
         private async Task BatchSaveUtterances()
-        {          
+        {
             if (utterances == null)
             {
                 MessageBox.Show("No utterances found");
+
                 return;
             }
-            
+
             var client = new HttpClient();
             var queryString = HttpUtility.ParseQueryString(string.Empty);
 
@@ -108,20 +110,33 @@ namespace Bot.AI.Tools
 
             HttpResponseMessage response;
 
-            // Request body
-            byte[] byteData = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(utterances));
+            var numberOfBatches = Math.Ceiling((double)utterances.Count / 100);
 
-            var json = string.Empty;
-
-            using (var content = new ByteArrayContent(byteData))
-            { 
-                content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
-                response = await client.PostAsync(uri, content);
-            }
-
-            if (!response.IsSuccessStatusCode)
+            for (int i = 0; i < numberOfBatches; i++)
             {
-                MessageBox.Show("Batch utterance labeling failed!");
+                var skip = i * 100;
+                var take = 100;
+
+                var batchOfUtterances = utterances.Skip(skip).Take(take);
+
+                // Request body
+                var body = JsonConvert.SerializeObject(batchOfUtterances);
+                byte[] byteData = Encoding.UTF8.GetBytes(body);
+
+                var json = string.Empty;
+
+                using (var content = new ByteArrayContent(byteData))
+                {
+                    content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+                    response = await client.PostAsync(uri, content);
+                }
+
+                if (!response.IsSuccessStatusCode)
+                {
+                    MessageBox.Show($"Batch utterance labeling failed! Skip: {skip}");
+
+                    break;
+                }
             }
         }
 
@@ -139,7 +154,7 @@ namespace Bot.AI.Tools
             {
                 MessageBox.Show("Luis training has failed!");
             }
-        }        
+        }
 
         private async Task ValidateIntents()
         {
@@ -174,9 +189,20 @@ namespace Bot.AI.Tools
 
         private async void btAddBatch_Click(object sender, EventArgs e)
         {
-            await BatchSaveUtterances();
-            await TrainLuis();
-            await ValidateIntents();
+            if (cbAddUtterances.Checked)
+            {
+                await BatchSaveUtterances();
+            }
+
+            if (cbTrainLuis.Checked)
+            {
+                await TrainLuis();
+            }
+
+            if (cbValidate.Checked)
+            {
+                await ValidateIntents();
+            }
         }
     }
 }
